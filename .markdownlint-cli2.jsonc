@@ -1,0 +1,12 @@
+{
+  // Structural Markdown linting for the Chidamide quality-standard documents.
+  "config": {
+    "default": true,
+    // Chinese pharmacopoeia prose keeps each paragraph on a single long line.
+    "MD013": false,
+    // Bold 【...】 markers are a pharmacopoeia section convention, not headings.
+    "MD036": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules", "dist"]
+}
