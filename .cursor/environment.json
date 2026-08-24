@@ -1,0 +1,16 @@
+{
+  "name": "HUANGQIUXIA docs",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "docs-preview",
+      "command": "npm run dev"
+    }
+  ],
+  "ports": [
+    {
+      "name": "Docs preview",
+      "port": 3000
+    }
+  ]
+}
