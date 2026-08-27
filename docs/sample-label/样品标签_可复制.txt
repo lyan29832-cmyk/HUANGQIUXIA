@@ -1,0 +1,35 @@
+样品标签
+Sample Label
+REC-QA-500-006.06
+
+名称
+Name
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+批号
+Batch Number
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+规格
+Specification
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+☐ 物料编码          ☐ 产品代码          ☐ 样品编号
+   Material Code       Product Code        Sample Number
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+储存条件
+Storage Conditions
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+取样量
+Sampling Quantity
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+取样人 / 日期
+Sampled by / Date
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+用途
+Purpose
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
