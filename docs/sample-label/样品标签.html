@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>样品标签 REC-QA-500-006.06</title>
+  <style>
+    :root {
+      --line: #111;
+      --muted: #5a5a5a;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      background: #ececec;
+      color: #111;
+    }
+    body {
+      font-family: "WenQuanYi Micro Hei", "Droid Sans Fallback", "Microsoft YaHei",
+                   "SimHei", sans-serif;
+    }
+
+    .page {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 20px 16px 40px;
+    }
+    .note {
+      font-size: 14px;
+      line-height: 1.6;
+      color: #333;
+      margin-bottom: 16px;
+    }
+    .note h1 {
+      font-size: 18px;
+      margin: 0 0 8px;
+    }
+    .note p { margin: 0 0 8px; }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 12px 0 20px;
+    }
+    button {
+      font: inherit;
+      font-size: 14px;
+      padding: 8px 14px;
+      border: 1px solid #222;
+      background: #fff;
+      cursor: pointer;
+    }
+    button:hover { background: #f3f3f3; }
+    button.copied { background: #1a7f37; color: #fff; border-color: #1a7f37; }
+
+    .label {
+      width: 90mm;
+      margin: 0 auto 24px;
+      padding: 4.5mm 5mm 5mm;
+      border: 1.5pt solid var(--line);
+      background: #fff;
+    }
+    .header {
+      position: relative;
+      text-align: center;
+      padding: 0 0 3mm;
+      margin-bottom: 2.5mm;
+      border-bottom: 1pt solid var(--line);
+    }
+    .doc-no {
+      position: absolute;
+      top: 0;
+      right: 0;
+      font-size: 8pt;
+      font-family: "Liberation Serif", "Times New Roman", serif;
+      letter-spacing: 0.02em;
+    }
+    .title-zh {
+      padding-top: 4.2mm;
+      font-size: 16pt;
+      font-weight: 700;
+      letter-spacing: 0.45em;
+      text-indent: 0.45em;
+      line-height: 1.2;
+    }
+    .title-en {
+      margin-top: 1mm;
+      font-size: 9pt;
+      font-family: "Liberation Serif", "Times New Roman", serif;
+      font-style: italic;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+    }
+
+    .field { margin: 2.2mm 0 0; }
+    .names {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+    }
+    .zh {
+      font-size: 11pt;
+      font-weight: 700;
+      line-height: 1.25;
+    }
+    .en {
+      font-size: 8pt;
+      font-family: "Liberation Serif", "Times New Roman", serif;
+      font-style: italic;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .line {
+      margin-top: 0.6mm;
+      height: 6.2mm;
+      border-bottom: 0.8pt solid var(--line);
+    }
+
+    .id-block {
+      margin-top: 2.4mm;
+    }
+    .checks {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 2mm;
+      margin: 1.6mm 0 1mm;
+    }
+    .check {
+      display: flex;
+      align-items: flex-start;
+      gap: 1.4mm;
+      min-width: 0;
+    }
+    .box {
+      flex: 0 0 3.4mm;
+      width: 3.4mm;
+      height: 3.4mm;
+      margin-top: 1.1mm;
+      border: 0.8pt solid #111;
+      background: #fff;
+    }
+    .check .zh { font-size: 9.5pt; }
+    .check .en {
+      display: block;
+      margin-top: 0.3mm;
+      font-size: 7pt;
+      white-space: normal;
+    }
+
+    .copy-box {
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 14px 16px;
+    }
+    .copy-box h2 {
+      font-size: 15px;
+      margin: 0 0 8px;
+    }
+    pre {
+      margin: 0;
+      white-space: pre-wrap;
+      font-size: 14px;
+      line-height: 1.45;
+      font-family: "WenQuanYi Micro Hei", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+    }
+
+    @media print {
+      html, body { background: #fff; }
+      .note, .actions, .copy-box { display: none !important; }
+      .page { padding: 0; max-width: none; }
+      .label { margin: 0; }
+      @page { size: A4; margin: 12mm; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <div class="note">
+      <h1>样品标签重新排版（REC-QA-500-006.06）</h1>
+      <p>字段与原稿一致。中文在左、英文在右，填写线全宽对齐；三项编码改为三列勾选。不生成 Word，点下方按钮即可复制。</p>
+    </div>
+
+    <article class="label" aria-label="样品标签">
+      <header class="header">
+        <div class="doc-no">REC-QA-500-006.06</div>
+        <div class="title-zh">样品标签</div>
+        <div class="title-en">Sample Label</div>
+      </header>
+
+      <div class="field">
+        <div class="names"><span class="zh">名称</span><span class="en">Name</span></div>
+        <div class="line"></div>
+      </div>
+      <div class="field">
+        <div class="names"><span class="zh">批号</span><span class="en">Batch Number</span></div>
+        <div class="line"></div>
+      </div>
+      <div class="field">
+        <div class="names"><span class="zh">规格</span><span class="en">Specification</span></div>
+        <div class="line"></div>
+      </div>
+
+      <div class="id-block">
+        <div class="checks">
+          <div class="check">
+            <span class="box" aria-hidden="true"></span>
+            <div>
+              <div class="zh">物料编码</div>
+              <span class="en">Material Code</span>
+            </div>
+          </div>
+          <div class="check">
+            <span class="box" aria-hidden="true"></span>
+            <div>
+              <div class="zh">产品代码</div>
+              <span class="en">Product Code</span>
+            </div>
+          </div>
+          <div class="check">
+            <span class="box" aria-hidden="true"></span>
+            <div>
+              <div class="zh">样品编号</div>
+              <span class="en">Sample Number</span>
+            </div>
+          </div>
+        </div>
+        <div class="line"></div>
+      </div>
+
+      <div class="field">
+        <div class="names"><span class="zh">储存条件</span><span class="en">Storage Conditions</span></div>
+        <div class="line"></div>
+      </div>
+      <div class="field">
+        <div class="names"><span class="zh">取样量</span><span class="en">Sampling Quantity</span></div>
+        <div class="line"></div>
+      </div>
+      <div class="field">
+        <div class="names"><span class="zh">取样人 / 日期</span><span class="en">Sampled by / Date</span></div>
+        <div class="line"></div>
+      </div>
+      <div class="field">
+        <div class="names"><span class="zh">用途</span><span class="en">Purpose</span></div>
+        <div class="line"></div>
+      </div>
+    </article>
+
+    <div class="actions">
+      <button type="button" id="btn-copy">复制标签文字</button>
+    </div>
+
+    <section class="copy-box">
+      <h2>可复制文本</h2>
+      <pre id="copy-src">样品标签
+Sample Label
+REC-QA-500-006.06
+
+名称
+Name
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+批号
+Batch Number
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+规格
+Specification
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+☐ 物料编码          ☐ 产品代码          ☐ 样品编号
+   Material Code       Product Code        Sample Number
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+储存条件
+Storage Conditions
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+取样量
+Sampling Quantity
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+取样人 / 日期
+Sampled by / Date
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+用途
+Purpose
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿</pre>
+    </section>
+  </div>
+
+  <script>
+    const btn = document.getElementById("btn-copy");
+    const src = document.getElementById("copy-src");
+    btn.addEventListener("click", async () => {
+      const text = src.textContent.replace(/^\n/, "");
+      try {
+        await navigator.clipboard.writeText(text);
+      } catch {
+        const range = document.createRange();
+        range.selectNodeContents(src);
+        const sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(range);
+        document.execCommand("copy");
+      }
+      btn.textContent = "已复制";
+      btn.classList.add("copied");
+      setTimeout(() => {
+        btn.textContent = "复制标签文字";
+        btn.classList.remove("copied");
+      }, 1600);
+    });
+  </script>
+</body>
+</html>
