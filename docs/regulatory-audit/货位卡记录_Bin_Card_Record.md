@@ -1,6 +1,6 @@
 # 货位卡记录 Bin Card Record
 
-> 仓库填卡顺序：名称→编码/批号→货位→数量件数→效期。右侧质量状态仅表头，空白贴标签。复制到 Word 后全框线，右侧一列合并为竖格。
+> 填卡顺序：物料信息 → 填写人 → 复核人 → **报告书编号** → **贴质量状态标签**。质量状态不设勾选、不放在表侧通栏。复制到 Word 后全框线；质量状态一行加高，便于贴标。
 
 **货位卡记录 Bin Card Record**
 
@@ -8,11 +8,10 @@
 
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse:collapse;width:100%;font-size:10.5pt;">
   <tr>
-    <td width="14%"><b>名称</b><br>Name</td>
-    <td width="28%"></td>
-    <td width="14%"><b>规格</b><br>Specification</td>
-    <td width="24%"></td>
-    <td width="20%" rowspan="12" valign="top"><b>质量状态</b><br>Quality Status</td>
+    <td width="18%"><b>名称</b><br>Name</td>
+    <td width="32%"></td>
+    <td width="18%"><b>规格</b><br>Specification</td>
+    <td width="32%"></td>
   </tr>
   <tr>
     <td><b>物料编码</b><br>Material Code</td>
@@ -53,12 +52,6 @@
   <tr>
     <td><b>分包装规格</b><br>Repackaging Specification</td>
     <td></td>
-    <td><b>报告书编号</b><br>Report No.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>放行日期</b><br>Release Date</td>
-    <td></td>
     <td><b>有效期至</b><br>Expiry Date</td>
     <td></td>
   </tr>
@@ -75,11 +68,18 @@
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="font-size:9pt;color:#333;">有效期 / 复验期 / 贮存期按质量标准填适用项，其余划“—”。不分包装时，分包装后编码及分包装规格划“—”。质量状态只贴标签，不在本卡勾选。</td>
+    <td><b>报告书编号</b><br>Report No.</td>
+    <td></td>
+    <td><b>放行日期</b><br>Release Date</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>质量状态</b><br>Quality Status</td>
+    <td colspan="3" height="56"></td>
   </tr>
 </table>
 
-<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse;width:100%;font-size:10.5pt;margin-top:0;">
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse;width:100%;font-size:10.5pt;">
   <tr>
     <td width="9%" align="center"><b>日期</b><br>Date</td>
     <td width="20%" align="center"><b>单号 / 摘要</b><br>Doc. No. / Remarks</td>
@@ -102,4 +102,4 @@
   <tr><td height="24"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-首行结存 = 本卡总数量、总件数。此后每笔：结存数量 = 上行结存 + 入/退 − 出库；结存件数同样滚计。结存为零则划销归档；换卡将末行结存转入新卡首行。
+填写人、复核人签完后，根据放行结果填写报告书编号和放行日期，再在质量状态栏贴标签。有效期 / 复验期 / 贮存期填适用项，其余划“—”。不分包装时分包装后编码及分包装规格划“—”。账页首行结存 = 总数量、总件数。
