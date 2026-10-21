@@ -1,0 +1,14 @@
+interface:
+  display_name: Pharma QA & Regulatory
+  short_description: 制药QA、GMP与法规支持｜版本2026.10.08.4｜法规基线2026-10-08
+  default_prompt: Use $pharma-qa-regulatory to review this pharmaceutical QA or regulatory
+    task and provide an evidence-based, professionally proofread response.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

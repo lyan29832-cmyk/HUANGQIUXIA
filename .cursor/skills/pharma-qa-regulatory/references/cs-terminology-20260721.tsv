@@ -1,0 +1,725 @@
+序号	中文术语	英文统一译法	收录状态	确认/收录日期	定稿场景
+1	目的	Purpose	基线收录	2026-06-11	原术语汇总表
+2	范围	Scope	基线收录	2026-06-11	原术语汇总表
+3	职责	Responsibilities	基线收录	2026-06-11	原术语汇总表
+4	编制依据	References	基线收录	2026-06-11	原术语汇总表
+5	定义	Definitions	基线收录	2026-06-11	原术语汇总表
+6	内容	Procedure	基线收录	2026-06-11	原术语汇总表
+7	注意事项	Precautions	基线收录	2026-06-11	原术语汇总表
+8	环境、健康、安全（EHS）要求	Environment, Health and Safety (EHS) Requirements	基线收录	2026-06-11	原术语汇总表
+9	派生记录	Associated Records	基线收录	2026-06-11	原术语汇总表
+10	相关文件	Related Documents	基线收录	2026-06-11	原术语汇总表
+11	附件	Attachments	基线收录	2026-06-11	原术语汇总表
+12	版本变更历史	Version History	基线收录	2026-06-11	原术语汇总表
+13	15min，限度为标示量的80%；45min，限度为标示量的85%；应符合规定。	At 15 minutes, the acceptance criterion is 80% of the labeled amount; at 45 m...	基线收录	2026-06-11	原术语汇总表
+14	1次/批	once per batch	基线收录	2026-06-11	原术语汇总表
+15	3个亚批固体分散体总重量+总取样量	(Total weight of 3 sub-batches of solid dispersion + total sampling quantity)	基线收录	2026-06-11	原术语汇总表
+16	4-[N-[（E）-3-（3-吡啶）丙烯酰基]氨甲基]苯甲酸	4-[N-[(E)-3-(pyridin-3-yl)acryloyl]aminomethyl]benzoic acid	基线收录	2026-06-11	原术语汇总表
+17	ALCOA++	ALCOA++	基线收录	2026-06-11	原术语汇总表
+18	A级洁净区	Grade A cleanroom/zone	基线收录	2026-06-11	原术语汇总表
+19	A（已批准在上市制剂使用的原料/辅料/包材）	A (approved for use in marketed drug products)	基线收录	2026-06-11	原术语汇总表
+20	BOPP包装膜	BOPP overwrapping film	基线收录	2026-06-11	原术语汇总表
+21	B级洁净区	Grade B cleanroom	基线收录	2026-06-11	原术语汇总表
+22	C级洁净区	Grade C cleanroom	基线收录	2026-06-11	原术语汇总表
+23	D级洁净区	Grade D cleanroom	基线收录	2026-06-11	原术语汇总表
+24	GMP	GMP	基线收录	2026-06-11	原术语汇总表
+25	ICH	ICH	基线收录	2026-06-11	原术语汇总表
+26	MAH产品事业部	MAH Product Business Unit	基线收录	2026-06-11	原术语汇总表
+27	MAH产品质量负责人	Head of Quality for the MAH Product	基线收录	2026-06-11	原术语汇总表
+28	MAH产品质量部	MAH Product Quality Department	基线收录	2026-06-11	原术语汇总表
+29	N-[4-（6-氟-1H-2-苯并咪唑基）苄基]-（E）-3-（3-吡啶）丙烯酰胺	N-[4-(6-fluoro-1H-benzimidazol-2-yl)benzyl]-(E)-3-(pyridin-3-yl)acrylamide	基线收录	2026-06-11	原术语汇总表
+30	QA审核人员	QA reviewer	基线收录	2026-06-11	原术语汇总表
+31	QC实验室	QC Laboratory	基线收录	2026-06-11	原术语汇总表
+32	一级追溯码	first-level traceability code	基线收录	2026-06-11	原术语汇总表
+33	一般生产区	General Production Area	基线收录	2026-06-11	原术语汇总表
+34	三废处理	Waste Management	基线收录	2026-06-11	原术语汇总表
+35	三级追溯码	third-level traceability code	基线收录	2026-06-11	原术语汇总表
+36	三维运动混合机	Three-Dimensional Mixer	基线收录	2026-06-11	原术语汇总表
+37	不合格品药板柜	Defective Product Blister Card Cabinet	基线收录	2026-06-11	原术语汇总表
+38	不得大于（限度/结果判定）	shall not exceed	基线收录	2026-06-11	原术语汇总表
+39	不得过（药典微生物限度）	not more than	基线收录	2026-06-11	原术语汇总表
+40	不符合项	Non-conformities	基线收录	2026-06-11	原术语汇总表
+41	不超过30℃保存	store at a temperature not exceeding 30°C	基线收录	2026-06-11	原术语汇总表
+42	不锈钢	Stainless Steel	基线收录	2026-06-11	原术语汇总表
+43	不锈钢勺	stainless steel scoop	基线收录	2026-06-11	原术语汇总表
+44	不锈钢尺	stainless steel ruler	基线收录	2026-06-11	原术语汇总表
+45	不锈钢耙	stainless steel rake	基线收录	2026-06-11	原术语汇总表
+46	不锈钢铲	stainless steel spatula	基线收录	2026-06-11	原术语汇总表
+47	不锈钢锤	stainless steel hammer	基线收录	2026-06-11	原术语汇总表
+48	专用容器	dedicated container	基线收录	2026-06-11	原术语汇总表
+49	中国药典	Chinese Pharmacopoeia (ChP)	基线收录	2026-06-11	原术语汇总表
+50	中文单语	Chinese monolingual	基线收录	2026-06-11	原术语汇总表
+51	中英文同版	Chinese-English same-version	基线收录	2026-06-11	原术语汇总表
+52	中英文同版文件	Chinese-English same-version documents	基线收录	2026-06-11	原术语汇总表
+53	中英文排版	Chinese-English layout	基线收录	2026-06-11	原术语汇总表
+54	中间产品请验单	Intermediate Product Inspection Form	基线收录	2026-06-11	原术语汇总表
+55	中间产品请验单进行全检请验	complete the Intermediate Product Inspection Form for full inspection	基线收录	2026-06-11	原术语汇总表
+56	中间产品质量控制点、标准及检查方法	Intermediate Product Quality Control Points, Specifications, and Test Methods	基线收录	2026-06-11	原术语汇总表
+57	中间包装	Intermediate Packaging	基线收录	2026-06-11	原术语汇总表
+58	中间站	intermediate station	基线收录	2026-06-11	原术语汇总表
+59	临床开发中心	Clinical Development Center	基线收录	2026-06-11	原术语汇总表
+60	临床阶段产品	Clinical-Stage Products	基线收录	2026-06-11	原术语汇总表
+61	主动召回	Voluntary Recall	基线收录	2026-06-11	原术语汇总表
+62	主审计员	Principal Auditor	基线收录	2026-06-11	原术语汇总表
+63	主要设备一览表	List of Major Equipment	基线收录	2026-06-11	原术语汇总表
+64	二级追溯码	second-level traceability code	基线收录	2026-06-11	原术语汇总表
+65	产品信息	Product Information	基线收录	2026-06-11	原术语汇总表
+66	产品信息（COA字段）	Product Description	基线收录	2026-06-11	原术语汇总表
+67	产品取样标准操作规程	Product Sampling Standard Operating Procedure	基线收录	2026-06-11	原术语汇总表
+68	产品名称	Product Name	基线收录	2026-06-11	原术语汇总表
+69	产品存放区	product storage area	基线收录	2026-06-11	原术语汇总表
+70	产品批号	Batch Number	基线收录	2026-06-11	原术语汇总表
+71	产品批量	Product Batch Size	基线收录	2026-06-11	原术语汇总表
+72	产品投诉管理规程	Product Complaint Management Procedure	基线收录	2026-06-11	原术语汇总表
+73	产品规格	Product Strength	基线收录	2026-06-11	原术语汇总表
+74	产品质量控制信息	Product Quality Control Information	基线收录	2026-06-11	原术语汇总表
+75	产品贮存要求	Product Storage Requirements	基线收录	2026-06-11	原术语汇总表
+76	企业负责人	Head of the Company	基线收录	2026-06-11	原术语汇总表
+77	会议纪要	Meeting Minutes	基线收录	2026-06-11	原术语汇总表
+78	体系模块	Quality System Elements	基线收录	2026-06-11	原术语汇总表
+79	使用数量	Quantity used	基线收录	2026-06-11	原术语汇总表
+80	修订记录	Revision Record	基线收录	2026-06-11	原术语汇总表
+81	偏差管理台帐	Deviation Management Log	基线收录	2026-06-11	原术语汇总表
+82	允许批用量范围及内包装材料	Permitted Batch Quantity Range and Primary Packaging Materials	基线收录	2026-06-11	原术语汇总表
+83	入库数量	Quantity put into storage	基线收录	2026-06-11	原术语汇总表
+84	全自动三维包装机	Fully Automatic Overwrapping Machine	基线收录	2026-06-11	原术语汇总表
+85	全自动打包机	Fully Automatic Packing Machine	基线收录	2026-06-11	原术语汇总表
+86	关键工艺参数	Critical Process Parameters	基线收录	2026-06-11	原术语汇总表
+87	关键工艺参数和控制范围	Critical Process Parameters and Control Ranges	基线收录	2026-06-11	原术语汇总表
+88	关键质量流程	Key Quality Processes	基线收录	2026-06-11	原术语汇总表
+89	内包装材料	Primary Packaging Materials	基线收录	2026-06-11	原术语汇总表
+90	净化式防爆热风循环烘箱	Purified Explosion-Proof Hot Air Circulating Oven	基线收录	2026-06-11	原术语汇总表
+91	分散体制备间	solid dispersion preparation room	基线收录	2026-06-11	原术语汇总表
+92	分析操作规程	Analytical Procedure	基线收录	2026-06-11	原术语汇总表
+93	切割刀速度	Chopper Speed	基线收录	2026-06-11	原术语汇总表
+94	制备时间	Preparation Time	基线收录	2026-06-11	原术语汇总表
+95	制粒	Granulation	基线收录	2026-06-11	原术语汇总表
+96	制粒时间	Granulation Time	基线收录	2026-06-11	原术语汇总表
+97	制粒间	granulation room	基线收录	2026-06-11	原术语汇总表
+98	包材使用量	Packaging material usage quantity	基线收录	2026-06-11	原术语汇总表
+99	包装和贮存	Packaging and Storage	基线收录	2026-06-11	原术语汇总表
+100	包装形式	Packaging Form	基线收录	2026-06-11	原术语汇总表
+101	包装材料	Packaging Materials	基线收录	2026-06-11	原术语汇总表
+102	压片	Tableting	基线收录	2026-06-11	原术语汇总表
+103	压片间	tableting room	基线收录	2026-06-11	原术语汇总表
+104	原料药实际批投料量	Actual Batch Dispensing Quantity of the Drug Substance	基线收录	2026-06-11	原术语汇总表
+105	原料药车间	Drug Substance Workshop	基线收录	2026-06-11	原术语汇总表
+106	原料药车间/口服固体制剂车间	Drug Substance Workshop / Oral Solid Dosage Form Workshop	基线收录	2026-06-11	原术语汇总表
+107	原辅包登记信息平台	registration information platform for excipients, packaging materials, and ph...	基线收录	2026-06-11	原术语汇总表
+108	原辅料废弃物、中间产品废弃物、成品废弃物、有机溶剂废液、有机废水	waste of raw materials and excipients, intermediate product waste, finished p...	基线收录	2026-06-11	原术语汇总表
+109	及时填写	promptly complete	基线收录	2026-06-11	原术语汇总表
+110	双向沟通	two-way communication	基线收录	2026-06-11	原术语汇总表
+111	双铝泡罩包装	Alu-Alu blister packaging	基线收录	2026-06-11	原术语汇总表
+112	取样量	Sampling quantity	基线收录	2026-06-11	原术语汇总表
+113	受审核组织代表	representative of the audited organization	基线收录	2026-06-11	原术语汇总表
+114	受托方	Contract Acceptor	基线收录	2026-06-11	原术语汇总表
+115	受托方评估报告	Contract Acceptor Assessment Report	基线收录	2026-06-11	原术语汇总表
+116	受托方调研和考察	Due Diligence and Assessment of the Contract Acceptor	基线收录	2026-06-11	原术语汇总表
+117	受托方质量审计和评估	Quality Audit and Assessment of the Contract Acceptor	基线收录	2026-06-11	原术语汇总表
+118	受托生产企业	Contract Acceptor	基线收录	2026-06-11	原术语汇总表
+119	受控标识	control identification	基线收录	2026-06-11	原术语汇总表
+120	受控记录模板	controlled record templates	基线收录	2026-06-11	原术语汇总表
+121	受控非洁净区	Controlled Non-Classified Area (CNC)	基线收录	2026-06-11	原术语汇总表
+122	变更管理台帐	Change Management Log	基线收录	2026-06-11	原术语汇总表
+123	口服固体制剂车间	Oral Solid Dosage Form Workshop	基线收录	2026-06-11	原术语汇总表
+124	召回反馈表	Recall Feedback Form	基线收录	2026-06-11	原术语汇总表
+125	召回台账	Recall Log	基线收录	2026-06-11	原术语汇总表
+126	召回工作小组	Recall Working Group	基线收录	2026-06-11	原术语汇总表
+127	召回工作指南	Recall Working Guidance	基线收录	2026-06-11	原术语汇总表
+128	召回管理规程	Medicinal Product Recall Management Procedure	基线收录	2026-06-11	原术语汇总表
+129	召回通知	Recall Notification	基线收录	2026-06-11	原术语汇总表
+130	合同管理制度	Contract Management Policy	基线收录	2026-06-11	原术语汇总表
+131	合格供应商清单	Approved Supplier List	基线收录	2026-06-11	原术语汇总表
+132	合格板数	Number of qualified blister cards	基线收录	2026-06-11	原术语汇总表
+133	同一受控文件	the same controlled document	基线收录	2026-06-11	原术语汇总表
+134	同时记录开始溶解时间、油浴温度	simultaneously record the start time of dissolution and the oil bath temperature	基线收录	2026-06-11	原术语汇总表
+135	含量测定	Assay	基线收录	2026-06-11	原术语汇总表
+136	商业与市场准入部	Commercial and Market Access Department	基线收录	2026-06-11	原术语汇总表
+137	商品条形码	commercial barcode	基线收录	2026-06-11	原术语汇总表
+138	国家药品监督管理局	National Medical Products Administration (NMPA), China	基线收录	2026-06-11	原术语汇总表
+139	国家药品监督管理局药品审评中心	Center for Drug Evaluation (CDE), National Medical Products Administration (N...	基线收录	2026-06-11	原术语汇总表
+140	处方批投料量	Theoretical Batch Dispensing Quantity (per Formula)	基线收录	2026-06-11	原术语汇总表
+141	处方量	Theoretical Quantity (per Formula)	基线收录	2026-06-11	原术语汇总表
+142	备料间	material preparation room	基线收录	2026-06-11	原术语汇总表
+143	复合袋	pharmaceutical composite pouch	基线收录	2026-06-11	原术语汇总表
+144	复核人	reviewer	基线收录	2026-06-11	原术语汇总表
+145	复称合格板数	Number of reweighed qualified blister cards	基线收录	2026-06-11	原术语汇总表
+146	复验期（原料药）	Re-test Period	基线收录	2026-06-11	原术语汇总表
+147	外包	Secondary Packaging	基线收录	2026-06-11	原术语汇总表
+148	外包材批用量	Batch Quantity of Secondary Packaging Materials	基线收录	2026-06-11	原术语汇总表
+149	外包装材料	Secondary Packaging Materials	基线收录	2026-06-11	原术语汇总表
+150	外包装检查	Secondary Packaging Inspection	基线收录	2026-06-11	原术语汇总表
+151	外包装检查—小盒内应有…	Secondary Packaging Inspection	基线收录	2026-06-11	原术语汇总表
+152	外包间	secondary packaging room	基线收录	2026-06-11	原术语汇总表
+153	外观	Appearance	基线收录	2026-06-11	原术语汇总表
+154	大肠埃希菌每1g不得检出	Escherichia coli: absent in 1 g	基线收录	2026-06-11	原术语汇总表
+155	委托方	Contract Giver	基线收录	2026-06-11	原术语汇总表
+156	委托生产	Contract Manufacturing	基线收录	2026-06-11	原术语汇总表
+157	委托生产合同	Contract Manufacturing Agreement	基线收录	2026-06-11	原术语汇总表
+158	存放时限（中间产品）	Hold Time	基线收录	2026-06-11	原术语汇总表
+159	定时/批	fixed time points/batch	基线收录	2026-06-11	原术语汇总表
+160	审计报告	Audit Report	基线收录	2026-06-11	原术语汇总表
+161	审计接待版	Audit Reception Version	基线收录	2026-06-11	原术语汇总表
+162	审计首次会议人员名单	Attendance List for the Audit Opening Meeting	基线收录	2026-06-11	原术语汇总表
+163	审阅文件签批设置	Review and Approval Signature Setup	基线收录	2026-06-11	原术语汇总表
+164	客户投诉回复模板	Customer Complaint Response Template	基线收录	2026-06-11	原术语汇总表
+165	小盒	carton	基线收录	2026-06-11	原术语汇总表
+166	层流罩	Laminar Flow Hood	基线收录	2026-06-11	原术语汇总表
+167	工序定员	Required Operators	基线收录	2026-06-11	原术语汇总表
+168	工艺卫生要求	Process Hygiene Requirements	基线收录	2026-06-11	原术语汇总表
+169	工艺参数	Process Parameter	基线收录	2026-06-11	原术语汇总表
+170	工艺参数和控制范围	Process Parameters and Control Ranges	基线收录	2026-06-11	原术语汇总表
+171	工艺描述	Process Description	基线收录	2026-06-11	原术语汇总表
+172	工艺流程图	Process Flow Diagram	基线收录	2026-06-11	原术语汇总表
+173	左右驱动封箱机	Side-Belt Carton Sealer	基线收录	2026-06-11	原术语汇总表
+174	已确认标识牌	Confirmed status sign	基线收录	2026-06-11	原术语汇总表
+175	已获批适应症	Approved Indications	基线收录	2026-06-11	原术语汇总表
+176	市场化产品	Marketed Products	基线收录	2026-06-11	原术语汇总表
+177	干混合	Dry Mixing	基线收录	2026-06-11	原术语汇总表
+178	干混合时间	Dry Mixing Time	基线收录	2026-06-11	原术语汇总表
+179	干燥	Drying	基线收录	2026-06-11	原术语汇总表
+180	干燥前固体分散体重量	Pre-drying solid dispersion weight	基线收录	2026-06-11	原术语汇总表
+181	干燥后固体分散体重量	Post-drying solid dispersion weight	基线收录	2026-06-11	原术语汇总表
+182	干燥失重	Loss on Drying	基线收录	2026-06-11	原术语汇总表
+183	干燥间	drying room	基线收录	2026-06-11	原术语汇总表
+184	平均片重	Average tablet weight	基线收录	2026-06-11	原术语汇总表
+185	平板膜过滤器	Plate Membrane Filter	基线收录	2026-06-11	原术语汇总表
+186	应不大于（系统适用性参数）	shall be not greater than	基线收录	2026-06-11	原术语汇总表
+187	应急指挥部	Emergency Command Center	基线收录	2026-06-11	原术语汇总表
+188	废弃处理	discard	基线收录	2026-06-11	原术语汇总表
+189	废弃湿料头重量	Discarded wet oversized material weight	基线收录	2026-06-11	原术语汇总表
+190	废损板/残次板	defective blister cards	基线收录	2026-06-11	原术语汇总表
+191	废损板数	Number of defective blister cards	基线收录	2026-06-11	原术语汇总表
+192	废片尾料污粉总重量	Total waste weight	基线收录	2026-06-11	原术语汇总表
+193	建议项	Recommendations	基线收录	2026-06-11	原术语汇总表
+194	强度/规格5mg	Strength: 5 mg	基线收录	2026-06-11	原术语汇总表
+195	待确认	Pending Confirmation	基线收录	2026-06-11	原术语汇总表
+196	微生物限度	Microbial Limits	基线收录	2026-06-11	原术语汇总表
+197	微芯生物专注于四大疾病领域	Chipscreen Biosciences Focuses on Four Major Disease Areas	基线收录	2026-06-11	原术语汇总表
+198	快速旋蒸阶段	Rapid Rotary Evaporation Stage	基线收录	2026-06-11	原术语汇总表
+199	性状	Description	基线收录	2026-06-11	原术语汇总表
+200	总收率	Overall Yield	基线收录	2026-06-11	原术语汇总表
+201	总混	Final Blending	基线收录	2026-06-11	原术语汇总表
+202	总混后颗粒重量	Post-blending granule weight	基线收录	2026-06-11	原术语汇总表
+203	总混间	final blending room	基线收录	2026-06-11	原术语汇总表
+204	成品的质量标准及检查方法	Finished Product Quality Specifications and Test Methods	基线收录	2026-06-11	原术语汇总表
+205	成品请验单	Finished Product Inspection Form	基线收录	2026-06-11	原术语汇总表
+206	成品请验单进行全检	complete the Finished Product Inspection Form for full inspection	基线收录	2026-06-11	原术语汇总表
+207	所用原辅料、包材的质量标准及检查方法	Quality Specifications and Test Methods for Raw Materials, Excipients, and Pa...	基线收录	2026-06-11	原术语汇总表
+208	手持宽幅喷码机	Handheld Wide-Format Inkjet Printer	基线收录	2026-06-11	原术语汇总表
+209	打印并粘贴至批记录	print the weighing information and affix it to the batch record	基线收录	2026-06-11	原术语汇总表
+210	批记录	Batch Production Record (BPR)	基线收录	2026-06-11	原术语汇总表
+211	技术安全及劳动保护	Technical Safety and Occupational Protection	基线收录	2026-06-11	原术语汇总表
+212	投入物料总重量	Total input material weight	基线收录	2026-06-11	原术语汇总表
+213	投诉信息分类及初步调查表	Complaint Classification and Preliminary Investigation Form	基线收录	2026-06-11	原术语汇总表
+214	投诉信息登记表	Complaint Information Registration Form	基线收录	2026-06-11	原术语汇总表
+215	投诉台账	Complaint Log	基线收录	2026-06-11	原术语汇总表
+216	投诉扩大调查中期报告	Interim Report on Complaint Expanded Investigation	基线收录	2026-06-11	原术语汇总表
+217	投诉扩大调查报告	Complaint Expanded Investigation Report	基线收录	2026-06-11	原术语汇总表
+218	报废数量	Quantity discarded	基线收录	2026-06-11	原术语汇总表
+219	控制范围	Control Range	基线收录	2026-06-11	原术语汇总表
+220	搅拌速度	Impeller Speed	基线收录	2026-06-11	原术语汇总表
+221	摇摆颗粒机	Oscillating Granulator	基线收录	2026-06-11	原术语汇总表
+222	操作人员	operator	基线收录	2026-06-11	原术语汇总表
+223	收率、物料平衡限度	Yield and Material Balance Limits	基线收录	2026-06-11	原术语汇总表
+224	收率计算公式	Yield Calculation Formula	基线收录	2026-06-11	原术语汇总表
+225	整粒	Sizing	基线收录	2026-06-11	原术语汇总表
+226	整粒后颗粒重量	Post-sizing granule weight	基线收录	2026-06-11	原术语汇总表
+227	文件格式模板	Document Format Template	基线收录	2026-06-11	原术语汇总表
+228	文件格式管理规程	Document Format Management Procedure	基线收录	2026-06-11	原术语汇总表
+229	文件管理规程	Document Management Procedure	基线收录	2026-06-11	原术语汇总表
+230	文件起草/修订人	Document drafter/reviser	基线收录	2026-06-11	原术语汇总表
+231	旋转蒸发器	Rotary Evaporator	基线收录	2026-06-11	原术语汇总表
+232	日常监督	Routine Oversight	基线收录	2026-06-11	原术语汇总表
+233	晶型	Crystal Form	基线收录	2026-06-11	原术语汇总表
+234	智能崩解仪	Intelligent Disintegration Tester	基线收录	2026-06-11	原术语汇总表
+235	智能溶出试验仪	Intelligent Dissolution Tester	基线收录	2026-06-11	原术语汇总表
+236	智能片剂硬度测定仪	Intelligent Tablet Hardness Tester	基线收录	2026-06-11	原术语汇总表
+237	有关物质	Related Substances	基线收录	2026-06-11	原术语汇总表
+238	有效期至	Expiry Date	基线收录	2026-06-11	原术语汇总表
+239	未使用数量	Quantity not used	基线收录	2026-06-11	原术语汇总表
+240	杂质1、2不得大于0.1%；其他单个杂质不得大于0.5%；总杂质不得大于1.5%。	Impurities 1 and 2 shall not exceed 0.1% each; any other individual impurity ...	基线收录	2026-06-11	原术语汇总表
+241	标准操作规程	Standard Operating Procedure	基线收录	2026-06-11	原术语汇总表
+242	标签室	label room	基线收录	2026-06-11	原术语汇总表
+243	标签计数器	Label Counter	基线收录	2026-06-11	原术语汇总表
+244	样本数量	Sample quantity	基线收录	2026-06-11	原术语汇总表
+245	检查频次	Check Frequency	基线收录	2026-06-11	原术语汇总表
+246	检验操作规程	Test Procedure	基线收录	2026-06-11	原术语汇总表
+247	欧洲药典	European Pharmacopoeia (Ph. Eur.)	基线收录	2026-06-11	原术语汇总表
+248	正文格式	Body Text Format	基线收录	2026-06-11	原术语汇总表
+249	残次品重量	Weight of defective products	基线收录	2026-06-11	原术语汇总表
+250	每30分钟记录一次	record every 30 min	基线收录	2026-06-11	原术语汇总表
+251	汉语拼音	Chinese Pinyin	基线收录	2026-06-11	原术语汇总表
+252	沟通管理	Communication Management	基线收录	2026-06-11	原术语汇总表
+253	油浴温度	Oil Bath Temperature	基线收录	2026-06-11	原术语汇总表
+254	法务证券与公共事务部	Legal, Securities and Public Affairs Department	基线收录	2026-06-11	原术语汇总表
+255	法务部	Legal Department	基线收录	2026-06-11	原术语汇总表
+256	法规状态	Regulatory Status	基线收录	2026-06-11	原术语汇总表
+257	泡沫箱	foam box	基线收录	2026-06-11	原术语汇总表
+258	洁净区	clean area	基线收录	2026-06-11	原术语汇总表
+259	派生记录格式	Associated Records Format	基线收录	2026-06-11	原术语汇总表
+260	浓缩阶段	Concentration Stage	基线收录	2026-06-11	原术语汇总表
+261	混合前固体分散体重量	Pre-blending solid dispersion weight	基线收录	2026-06-11	原术语汇总表
+262	混合后固体分散体重量+取样量	Post-blending solid dispersion weight + sampling quantity	基线收录	2026-06-11	原术语汇总表
+263	混合高速	High-Speed Mixing	基线收录	2026-06-11	原术语汇总表
+264	游标卡尺	Vernier Caliper	基线收录	2026-06-11	原术语汇总表
+265	溶出度	Dissolution	基线收录	2026-06-11	原术语汇总表
+266	溶解性	Solubility	基线收录	2026-06-11	原术语汇总表
+267	激光打码机	Laser Coding Machine	基线收录	2026-06-11	原术语汇总表
+268	烘盘	drying tray	基线收录	2026-06-11	原术语汇总表
+269	烘车	drying trolley	基线收录	2026-06-11	原术语汇总表
+270	热风循环烘箱	Hot Air Circulating Oven	基线收录	2026-06-11	原术语汇总表
+271	版面编排	layout arrangement	基线收录	2026-06-11	原术语汇总表
+272	物料暂存区	material temporary storage area	基线收录	2026-06-11	原术语汇总表
+273	物料暂存间进出台账	Material Temporary Storage Room In/Out Log	基线收录	2026-06-11	原术语汇总表
+274	物料标签	Material Label	基线收录	2026-06-11	原术语汇总表
+275	状态信息	status information	基线收录	2026-06-11	原术语汇总表
+276	现场QA	on-site QA	基线收录	2026-06-11	原术语汇总表
+277	玻璃	Glass	基线收录	2026-06-11	原术语汇总表
+278	生产地点	Manufacturing Site	基线收录	2026-06-11	原术语汇总表
+279	生产工序	Production Step	基线收录	2026-06-11	原术语汇总表
+280	生产工时	Production Time	基线收录	2026-06-11	原术语汇总表
+281	生产工艺规程	Manufacturing Process Procedure	基线收录	2026-06-11	原术语汇总表
+282	生产日期	Date of Manufacture	基线收录	2026-06-11	原术语汇总表
+283	生产负责人	Head of Production	基线收录	2026-06-11	原术语汇总表
+284	生产部	Production Department	基线收录	2026-06-11	原术语汇总表
+285	电子台秤	Electronic Platform Scale	基线收录	2026-06-11	原术语汇总表
+286	电子天平	Electronic Balance	基线收录	2026-06-11	原术语汇总表
+287	电子水分测定仪	Electronic Moisture Analyzer	基线收录	2026-06-11	原术语汇总表
+288	监督销毁	supervise destruction	基线收录	2026-06-11	原术语汇总表
+289	盛装单	Filling Form	基线收录	2026-06-11	原术语汇总表
+290	盛装单（配料）	Filling Label (Dispensing)	基线收录	2026-06-11	原术语汇总表
+291	相关操作规程	Relevant Standard Operating Procedures	基线收录	2026-06-11	原术语汇总表
+292	相关杂质	Major Impurities	基线收录	2026-06-11	原术语汇总表
+293	相关药品	Affected Products	基线收录	2026-06-11	原术语汇总表
+294	真空度	Vacuum	基线收录	2026-06-11	原术语汇总表
+295	真空检测仪	Vacuum Leak Tester	基线收录	2026-06-11	原术语汇总表
+296	称量打印标签	weighing printout label	基线收录	2026-06-11	原术语汇总表
+297	称量记录	weighing record	基线收录	2026-06-11	原术语汇总表
+298	称量间	dispensing room	基线收录	2026-06-11	原术语汇总表
+299	管理规程	Management Procedure	基线收录	2026-06-11	原术语汇总表
+300	类别	Category	基线收录	2026-06-11	原术语汇总表
+301	粉尘较大的岗位必须佩戴防尘口罩	Personnel working in operations generating significant dust during production...	基线收录	2026-06-11	原术语汇总表
+302	粉碎前3个亚批的重量	Pre-milling weight of 3 sub-batches	基线收录	2026-06-11	原术语汇总表
+303	粉碎后物料的重量	Post-milling material weight	基线收录	2026-06-11	原术语汇总表
+304	粉碎间	milling room	基线收录	2026-06-11	原术语汇总表
+305	粒度	Particle Size	基线收录	2026-06-11	原术语汇总表
+306	粒度分布	Particle Size Distribution	基线收录	2026-06-11	原术语汇总表
+307	素片总重量	Total uncoated tablet weight	基线收录	2026-06-11	原术语汇总表
+308	纸箱	shipping carton	基线收录	2026-06-11	原术语汇总表
+309	美国药典	United States Pharmacopeia (USP)	基线收录	2026-06-11	原术语汇总表
+310	职务	Title	基线收录	2026-06-11	原术语汇总表
+311	聚酯/铝/聚乙烯药用复合袋	polyester/aluminum/polyethylene pharmaceutical composite bag	基线收录	2026-06-11	原术语汇总表
+312	聚酰胺/铝/聚氯乙烯冷冲压成型固体药用复合硬片	polyamide/aluminum/polyvinyl chloride cold-formed solid pharmaceutical compos...	基线收录	2026-06-11	原术语汇总表
+313	脆碎度检查仪	Friability Tester	基线收录	2026-06-11	原术语汇总表
+314	自动检重秤	Automatic Checkweigher	基线收录	2026-06-11	原术语汇总表
+315	自动薄膜封口机	Automatic Film Sealing Machine	基线收录	2026-06-11	原术语汇总表
+316	英文名称	English Name	基线收录	2026-06-11	原术语汇总表
+317	药品召回总结报告	Medicinal Product Recall Summary Report	基线收录	2026-06-11	原术语汇总表
+318	药品召回计划	Medicinal Product Recall Plan	基线收录	2026-06-11	原术语汇总表
+319	药品召回阶段报告	Medicinal Product Recall Progress Report	基线收录	2026-06-11	原术语汇总表
+320	药品生产单位	drug manufacturer	基线收录	2026-06-11	原术语汇总表
+321	药品追溯码系统	Drug Traceability Code System	基线收录	2026-06-11	原术语汇总表
+322	药板	blister card	基线收录	2026-06-11	原术语汇总表
+323	药物警戒部	Pharmacovigilance Department	基线收录	2026-06-11	原术语汇总表
+324	药用低密度聚乙烯袋	pharmaceutical low-density polyethylene bag	基线收录	2026-06-11	原术语汇总表
+325	药用铝箔	pharmaceutical aluminum foil	基线收录	2026-06-11	原术语汇总表
+326	药用高密度聚乙烯瓶	pharmaceutical high-density polyethylene bottle	基线收录	2026-06-11	原术语汇总表
+327	菲特P1010压片机	Fette P1010 Tablet Press	基线收录	2026-06-11	原术语汇总表
+328	董事会办公室	Board Office	基线收录	2026-06-11	原术语汇总表
+329	蠕动泵	Peristaltic Pump	基线收录	2026-06-11	原术语汇总表
+330	装盒操作	Cartoning Operation	基线收录	2026-06-11	原术语汇总表
+331	装袋操作	Pouching Operation	基线收录	2026-06-11	原术语汇总表
+332	西达本胺	Chidamide	基线收录	2026-06-11	原术语汇总表
+333	西达本胺固体分散体	Chidamide Solid Dispersion	基线收录	2026-06-11	原术语汇总表
+334	西达本胺固体分散体亚批检验操作规程	Test Procedure for Chidamide Solid Dispersion Sub-batches	基线收录	2026-06-11	原术语汇总表
+335	西达本胺固体分散体亚批质量标准	Sub-batch Quality Specification for Chidamide Solid Dispersion	基线收录	2026-06-11	原术语汇总表
+336	西达本胺固体分散体投料量	Dispensing Quantity of Chidamide Solid Dispersion	基线收录	2026-06-11	原术语汇总表
+337	西达本胺片	Chidamide Tablets	基线收录	2026-06-11	原术语汇总表
+338	西达本胺片素片质量标准	Quality Specification for Uncoated Chidamide Tablets	基线收录	2026-06-11	原术语汇总表
+339	规格（剂量）	Strength	基线收录	2026-06-11	原术语汇总表
+340	规格（包装）	Pack Size	基线收录	2026-06-11	原术语汇总表
+341	规程	Procedure	基线收录	2026-06-11	原术语汇总表
+342	设备流程图	Equipment Flow Diagram	基线收录	2026-06-11	原术语汇总表
+343	说明书	package insert	基线收录	2026-06-11	原术语汇总表
+344	调查评估报告	Investigation and Assessment Report	基线收录	2026-06-11	原术语汇总表
+345	责令召回	Mandatory Recall	基线收录	2026-06-11	原术语汇总表
+346	货架期/有效期（成品）	Shelf Life	基线收录	2026-06-11	原术语汇总表
+347	质量体系概况	Quality System Overview	基线收录	2026-06-11	原术语汇总表
+348	质量保证部	Quality Assurance Department	基线收录	2026-06-11	原术语汇总表
+349	质量协议	Quality Agreement	基线收录	2026-06-11	原术语汇总表
+350	质量协议管理规程	Quality Agreement Management Procedure	基线收录	2026-06-11	原术语汇总表
+351	质量受权人	Qualified Person (QP)	基线收录	2026-06-11	原术语汇总表
+352	质量审计管理规程	Quality Audit Management Procedure	基线收录	2026-06-11	原术语汇总表
+353	质量控制部	Quality Control Department	基线收录	2026-06-11	原术语汇总表
+354	质量标准	Quality Specification	基线收录	2026-06-11	原术语汇总表
+355	质量标准内容	Quality Specification Requirements	基线收录	2026-06-11	原术语汇总表
+356	质量标准项目和标准规定	Quality Specification Parameters and Requirements	基线收录	2026-06-11	原术语汇总表
+357	质量理念	Quality Principles	基线收录	2026-06-11	原术语汇总表
+358	质量监督频率	Oversight Frequency	基线收录	2026-06-11	原术语汇总表
+359	质量管理体系文件	Quality Management System documents	基线收录	2026-06-11	原术语汇总表
+360	质量管理员	Quality Administrator	基线收录	2026-06-11	原术语汇总表
+361	质量负责人	Head of Quality	基线收录	2026-06-11	原术语汇总表
+362	贮存条件	Storage Conditions	基线收录	2026-06-11	原术语汇总表
+363	转移	transfer	基线收录	2026-06-11	原术语汇总表
+364	转移至称量间，称重后打印称量信息并粘贴于批记录	Transfer to the dispensing room. After weighing, print the weighing informati...	基线收录	2026-06-11	原术语汇总表
+365	转运	transfer	基线收录	2026-06-11	原术语汇总表
+366	退回	return	基线收录	2026-06-11	原术语汇总表
+367	退库	return to the warehouse	基线收录	2026-06-11	原术语汇总表
+368	遮光，密封保存	Protect from light and keep tightly closed.	基线收录	2026-06-11	原术语汇总表
+369	铝塑泡罩包装机	Blister Packaging Machine	基线收录	2026-06-11	原术语汇总表
+370	铝铝包装	Alu-Alu Blister Packaging	基线收录	2026-06-11	原术语汇总表
+371	铝铝包装间	Alu-Alu blister packaging room	基线收录	2026-06-11	原术语汇总表
+372	铝铝板	Alu-Alu blister card	基线收录	2026-06-11	原术语汇总表
+373	铝铝板产品总重量	Total weight of Alu-Alu blisters	基线收录	2026-06-11	原术语汇总表
+374	铝铝板总板数	Total number of Alu-Alu blisters	基线收录	2026-06-11	原术语汇总表
+375	销毁	destruction	基线收录	2026-06-11	原术语汇总表
+376	防爆	Explosion-Proof	基线收录	2026-06-11	原术语汇总表
+377	附件一/附件二	Appendix 1 / Appendix 2	基线收录	2026-06-11	原术语汇总表
+378	限度	Limit	基线收录	2026-06-11	原术语汇总表
+379	集团质量负责人	Head of Group Quality	基线收录	2026-06-11	原术语汇总表
+380	零头追溯码	traceability codes of leftover packages	基线收录	2026-06-11	原术语汇总表
+381	零箱	partial carton	基线收录	2026-06-11	原术语汇总表
+382	需氧菌总数	Total Aerobic Microbial Count	基线收录	2026-06-11	原术语汇总表
+383	霉菌和酵母菌总数	Total Combined Yeasts and Molds Count	基线收录	2026-06-11	原术语汇总表
+384	页眉设置	Header Setup	基线收录	2026-06-11	原术语汇总表
+385	页脚设置	Footer Setup	基线收录	2026-06-11	原术语汇总表
+386	页面设置	Page Setup	基线收录	2026-06-11	原术语汇总表
+387	领取	collect	基线收录	2026-06-11	原术语汇总表
+388	领取颗粒重量	Dispensed granule weight	基线收录	2026-06-11	原术语汇总表
+389	领料单	Material Requisition Form	基线收录	2026-06-11	原术语汇总表
+390	领用数量	Quantity dispensed	基线收录	2026-06-11	原术语汇总表
+391	领用素片重量	Dispensed uncoated tablet weight	基线收录	2026-06-11	原术语汇总表
+392	领用量	Quantity dispensed	基线收录	2026-06-11	原术语汇总表
+393	颗粒废料重量	Granule waste weight	基线收录	2026-06-11	原术语汇总表
+394	飞行检查	unannounced inspections	基线收录	2026-06-11	原术语汇总表
+395	高效吸尘粉碎机	High-Efficiency Dust-Extraction Mill	基线收录	2026-06-11	原术语汇总表
+396	高效湿法混合制粒机	High-Shear Wet Granulator	基线收录	2026-06-11	原术语汇总表
+397	-0.060MPa以上	not less than -0.060 MPa	基线收录	2026-06-11	原术语汇总表
+398	Manufacturing Step（语境化）	Manufacturing Step	基线收录	2026-06-11	原术语汇总表
+399	round half to even	round half to even	基线收录	2026-06-11	原术语汇总表
+400	主要杂质1的相对保留时间约为2.8	The relative retention time of Impurity 1 in Chidamide Tablets is approximate...	基线收录	2026-06-11	原术语汇总表
+401	约-0.06MPa	approx. -0.06 MPa	基线收录	2026-06-11	原术语汇总表
+402	四舍六入五成双	round half to even	基线收录	2026-06-11	原术语汇总表
+403	有效期（中间产品）	Hold Time	基线收录	2026-06-11	原术语汇总表
+404	生产步骤	Manufacturing Step	基线收录	2026-06-11	原术语汇总表
+405	存放时限	hold time	基线收录	2026-06-11	原术语汇总表
+406	中间产品存放时限	Hold Time	基线收录	2026-06-11	原术语汇总表
+407	充分的；适当的	adequate	基线收录	2026-06-11	原术语汇总表
+408	可；可以	may	基线收录	2026-06-11	原术语汇总表
+409	基于风险的	risk-based	基线收录	2026-06-11	原术语汇总表
+410	如有合理理由；经论证合理时	if justified	基线收录	2026-06-11	原术语汇总表
+411	已建立；经建立	established	基线收录	2026-06-11	原术语汇总表
+412	应；宜	should	基线收录	2026-06-11	原术语汇总表
+413	应；应当	shall	基线收录	2026-06-11	原术语汇总表
+414	必要时	as necessary	基线收录	2026-06-11	原术语汇总表
+415	必须；应当	must	基线收录	2026-06-11	原术语汇总表
+416	文件化的；有文件记录的	documented	基线收录	2026-06-11	原术语汇总表
+417	科学合理的	scientifically sound	基线收录	2026-06-11	原术语汇总表
+418	符合……要求；合规	compliant	基线收录	2026-06-11	原术语汇总表
+419	经确认的；合格的	qualified	基线收录	2026-06-11	原术语汇总表
+420	经验证的；已验证	validated	基线收录	2026-06-11	原术语汇总表
+421	能够；可	can	基线收录	2026-06-11	原术语汇总表
+422	要求；必须；需	required	基线收录	2026-06-11	原术语汇总表
+423	适当的；合适的	appropriate	基线收录	2026-06-11	原术语汇总表
+424	适用时；如适用	where applicable	基线收录	2026-06-11	原术语汇总表
+425	酌情；视情况适当	as appropriate	基线收录	2026-06-11	原术语汇总表
+426	预期；期望；应	expected	基线收录	2026-06-11	原术语汇总表
+427	再次发生；复发	recurrence	基线收录	2026-06-11	原术语汇总表
+428	有效性检查	effectiveness check	基线收录	2026-06-11	原术语汇总表
+429	纠正	correction	基线收录	2026-06-11	原术语汇总表
+430	纠正措施	corrective action	基线收录	2026-06-11	原术语汇总表
+431	纠正措施和预防措施；CAPA	corrective action and preventive action (CAPA)	基线收录	2026-06-11	原术语汇总表
+432	预防措施	preventive action	基线收录	2026-06-11	原术语汇总表
+433	中间体	intermediate	基线收录	2026-06-11	原术语汇总表
+434	中间控制；过程控制	in-process control (IPC)	基线收录	2026-06-11	原术语汇总表
+435	元素杂质	elemental impurity	基线收录	2026-06-11	原术语汇总表
+436	关键工艺参数；CPP	critical process parameter (CPP)	基线收录	2026-06-11	原术语汇总表
+437	关键质量属性；CQA	critical quality attribute (CQA)	基线收录	2026-06-11	原术语汇总表
+438	制剂；药品制剂	drug product	基线收录	2026-06-11	原术语汇总表
+439	原料药；活性药物成分	active pharmaceutical ingredient (API)	基线收录	2026-06-11	原术语汇总表
+440	原料药；药物 substance	drug substance	基线收录	2026-06-11	原术语汇总表
+441	原材料；原辅物料	raw material	基线收录	2026-06-11	原术语汇总表
+442	可提取物和浸出物；E&L	extractables and leachables (E&L)	基线收录	2026-06-11	原术语汇总表
+443	复验期	retest period	基线收录	2026-06-11	原术语汇总表
+444	容器密封系统	container closure system	基线收录	2026-06-11	原术语汇总表
+445	接受标准	acceptance criteria	基线收录	2026-06-11	原术语汇总表
+446	控制策略	control strategy	基线收录	2026-06-11	原术语汇总表
+447	有效期	shelf life	基线收录	2026-06-11	原术语汇总表
+448	正常操作范围；NOR	normal operating range (NOR)	基线收录	2026-06-11	原术语汇总表
+449	残留溶剂	residual solvent	基线收录	2026-06-11	原术语汇总表
+450	稳定性指示性方法	stability-indicating method	基线收录	2026-06-11	原术语汇总表
+451	经证明可接受范围；PAR	proven acceptable range (PAR)	基线收录	2026-06-11	原术语汇总表
+452	设计空间	design space	基线收录	2026-06-11	原术语汇总表
+453	质量标准；规格	specification	基线收录	2026-06-11	原术语汇总表
+454	起始物料	starting material	基线收录	2026-06-11	原术语汇总表
+455	降解产物	degradation product	基线收录	2026-06-11	原术语汇总表
+456	杂质	impurity	基线收录	2026-06-11	原术语汇总表
+457	事先批准	prior approval	基线收录	2026-06-11	原术语汇总表
+458	变更关闭	change closure	基线收录	2026-06-11	原术语汇总表
+459	变更控制	change control	基线收录	2026-06-11	原术语汇总表
+460	变更管理	change management	基线收录	2026-06-11	原术语汇总表
+461	实施	implementation	基线收录	2026-06-11	原术语汇总表
+462	通知；报告	notification	基线收录	2026-06-11	原术语汇总表
+463	主要缺陷；重大缺陷	major deficiency	基线收录	2026-06-11	原术语汇总表
+464	关键缺陷；严重缺陷	critical deficiency	基线收录	2026-06-11	原术语汇总表
+465	发现项；审计发现	finding	基线收录	2026-06-11	原术语汇总表
+466	合规；符合性	compliance	基线收录	2026-06-11	原术语汇总表
+467	审计；审核	audit	基线收录	2026-06-11	原术语汇总表
+468	整改；补救整改	remediation	基线收录	2026-06-11	原术语汇总表
+469	检查发现；观察项	observation	基线收录	2026-06-11	原术语汇总表
+470	检查；监管检查	inspection	基线收录	2026-06-11	原术语汇总表
+471	监管期望	regulatory expectation	基线收录	2026-06-11	原术语汇总表
+472	缺陷；不足	deficiency	基线收录	2026-06-11	原术语汇总表
+473	ALCOA++原则	ALCOA++ principles	基线收录	2026-06-11	原术语汇总表
+474	一致	Consistent	基线收录	2026-06-11	原术语汇总表
+475	元数据	metadata	基线收录	2026-06-11	原术语汇总表
+476	准确	Accurate	基线收录	2026-06-11	原术语汇总表
+477	原始	Original	基线收录	2026-06-11	原术语汇总表
+478	原始数据	raw data	基线收录	2026-06-11	原术语汇总表
+479	可归属	Attributable	基线收录	2026-06-11	原术语汇总表
+480	可获得	Available	基线收录	2026-06-11	原术语汇总表
+481	可追溯	Traceable	基线收录	2026-06-11	原术语汇总表
+482	同步记录；及时记录	Contemporaneous	基线收录	2026-06-11	原术语汇总表
+483	完整	Complete	基线收录	2026-06-11	原术语汇总表
+484	审计追踪	audit trail	基线收录	2026-06-11	原术语汇总表
+485	持久	Enduring	基线收录	2026-06-11	原术语汇总表
+486	数据完整性	data integrity	基线收录	2026-06-11	原术语汇总表
+487	混合系统	hybrid system	基线收录	2026-06-11	原术语汇总表
+488	清晰可辨	Legible	基线收录	2026-06-11	原术语汇总表
+489	用户访问控制	user access control	基线收录	2026-06-11	原术语汇总表
+490	主批生产记录	master batch record (MBR)	基线收录	2026-06-11	原术语汇总表
+491	受控文件	controlled document	基线收录	2026-06-11	原术语汇总表
+492	已执行批记录	executed batch record	基线收录	2026-06-11	原术语汇总表
+493	批包装记录	batch packaging record (BPR)	基线收录	2026-06-11	原术语汇总表
+494	批生产记录	batch manufacturing record (BMR)	基线收录	2026-06-11	原术语汇总表
+495	日志；记录本	logbook	基线收录	2026-06-11	原术语汇总表
+496	标准操作规程；SOP	standard operating procedure (SOP)	基线收录	2026-06-11	原术语汇总表
+497	良好文件规范；GDP	good documentation practice (GDP)	基线收录	2026-06-11	原术语汇总表
+498	记录保存	record retention	基线收录	2026-06-11	原术语汇总表
+499	可追溯性	traceability	基线收录	2026-06-11	原术语汇总表
+500	合格受权人；QP	qualified person (QP)	基线收录	2026-06-11	原术语汇总表
+501	持续改进	continual improvement	基线收录	2026-06-11	原术语汇总表
+502	现行药品生产质量管理规范；CGMP	current good manufacturing practice (CGMP)	基线收录	2026-06-11	原术语汇总表
+503	生命周期方法；生命周期管理方法	lifecycle approach	基线收录	2026-06-11	原术语汇总表
+504	管理评审	management review	基线收录	2026-06-11	原术语汇总表
+505	药品生产质量管理规范；GMP	Good Manufacturing Practice (GMP)	基线收录	2026-06-11	原术语汇总表
+506	药品质量体系	pharmaceutical quality system (PQS)	基线收录	2026-06-11	原术语汇总表
+507	质量保证	quality assurance (QA)	基线收录	2026-06-11	原术语汇总表
+508	质量手册	quality manual	基线收录	2026-06-11	原术语汇总表
+509	质量控制	quality control (QC)	基线收录	2026-06-11	原术语汇总表
+510	质量方针	quality policy	基线收录	2026-06-11	原术语汇总表
+511	质量管理体系	quality management system (QMS)	基线收录	2026-06-11	原术语汇总表
+512	质量部门；质量单元	quality unit	基线收录	2026-06-11	原术语汇总表
+513	高级管理层	senior management	基线收录	2026-06-11	原术语汇总表
+514	上市许可申请；MAA	marketing authorization application (MAA)	基线收录	2026-06-11	原术语汇总表
+515	批准后变更	post-approval change	基线收录	2026-06-11	原术语汇总表
+516	新药申请；NDA	new drug application (NDA)	基线收录	2026-06-11	原术语汇总表
+517	模块3；质量部分	Module 3	基线收录	2026-06-11	原术语汇总表
+518	注册承诺；监管承诺	regulatory commitment	基线收录	2026-06-11	原术语汇总表
+519	生物制品许可申请；BLA	biologics license application (BLA)	基线收录	2026-06-11	原术语汇总表
+520	缺陷函；补充资料要求函	deficiency letter	基线收录	2026-06-11	原术语汇总表
+521	通用技术文档；CTD	common technical document (CTD)	基线收录	2026-06-11	原术语汇总表
+522	问题回复；审评问题回复	response to questions	基线收录	2026-06-11	原术语汇总表
+523	可比性	comparability	基线收录	2026-06-11	原术语汇总表
+524	不合格；已拒收	rejected	基线收录	2026-06-11	原术语汇总表
+525	供应商确认；供应商资质确认	supplier qualification	基线收录	2026-06-11	原术语汇总表
+526	合格供应商清单；ASL	approved supplier list (ASL)	基线收录	2026-06-11	原术语汇总表
+527	已放行	released	基线收录	2026-06-11	原术语汇总表
+528	待验；隔离	quarantine	基线收录	2026-06-11	原术语汇总表
+529	技术协议	technical agreement	基线收录	2026-06-11	原术语汇总表
+530	检验报告书；CoA	certificate of analysis (CoA)	基线收录	2026-06-11	原术语汇总表
+531	物料确认；物料资质确认	material qualification	基线收录	2026-06-11	原术语汇总表
+532	符合性证明；CoC	certificate of compliance (CoC)	基线收录	2026-06-11	原术语汇总表
+533	交叉污染	cross-contamination	基线收录	2026-06-11	原术语汇总表
+534	内毒素	endotoxin	基线收录	2026-06-11	原术语汇总表
+535	培养基灌装；模拟灌装	media fill	基线收录	2026-06-11	原术语汇总表
+536	无菌工艺；无菌生产工艺	aseptic processing	基线收录	2026-06-11	原术语汇总表
+537	污染控制策略；CCS	contamination control strategy (CCS)	基线收录	2026-06-11	原术语汇总表
+538	洁净室	cleanroom	基线收录	2026-06-11	原术语汇总表
+539	洁净级别	cleanliness grade	基线收录	2026-06-11	原术语汇总表
+540	消毒	disinfection	基线收录	2026-06-11	原术语汇总表
+541	混淆	mix-up	基线收录	2026-06-11	原术语汇总表
+542	清场	line clearance	基线收录	2026-06-11	原术语汇总表
+543	灭菌	sterilization	基线收录	2026-06-11	原术语汇总表
+544	热原	pyrogen	基线收录	2026-06-11	原术语汇总表
+545	环境监测；EM	environmental monitoring (EM)	基线收录	2026-06-11	原术语汇总表
+546	生物负载	bioburden	基线收录	2026-06-11	原术语汇总表
+547	无菌保障	sterility assurance	基线收录	2026-06-11	原术语汇总表
+548	单克隆抗体；mAb	monoclonal antibody (mAb)	基线收录	2026-06-11	原术语汇总表
+549	宿主细胞DNA	host cell DNA	基线收录	2026-06-11	原术语汇总表
+550	宿主细胞蛋白；HCP	host cell protein (HCP)	基线收录	2026-06-11	原术语汇总表
+551	抗体偶联药物；ADC	antibody-drug conjugate (ADC)	基线收录	2026-06-11	原术语汇总表
+552	效价；生物学活性	potency	基线收录	2026-06-11	原术语汇总表
+553	未偶联抗体	unconjugated antibody	基线收录	2026-06-11	原术语汇总表
+554	游离药物；游离载荷	free drug	基线收录	2026-06-11	原术语汇总表
+555	片段化	fragmentation	基线收录	2026-06-11	原术语汇总表
+556	糖化	glycation	基线收录	2026-06-11	原术语汇总表
+557	糖基化	glycosylation	基线收录	2026-06-11	原术语汇总表
+558	聚集	aggregation	基线收录	2026-06-11	原术语汇总表
+559	药物抗体比；DAR	drug-to-antibody ratio (DAR)	基线收录	2026-06-11	原术语汇总表
+560	载荷；细胞毒载荷	payload	基线收录	2026-06-11	原术语汇总表
+561	连接子	linker	基线收录	2026-06-11	原术语汇总表
+562	偶联	conjugation	基线收录	2026-06-11	原术语汇总表
+563	分析方法验证	analytical method validation	基线收录	2026-06-11	原术语汇总表
+564	分析程序开发	analytical procedure development	基线收录	2026-06-11	原术语汇总表
+565	安装确认；IQ	installation qualification (IQ)	基线收录	2026-06-11	原术语汇总表
+566	定期回顾	periodic review	基线收录	2026-06-11	原术语汇总表
+567	工艺验证	process validation	基线收录	2026-06-11	原术语汇总表
+568	性能确认；PQ	performance qualification (PQ)	基线收录	2026-06-11	原术语汇总表
+569	持续工艺确认；CPV	continued process verification (CPV)	基线收录	2026-06-11	原术语汇总表
+570	核实；确认性核查	verification	基线收录	2026-06-11	原术语汇总表
+571	清洁验证	cleaning validation	基线收录	2026-06-11	原术语汇总表
+572	确认	qualification	基线收录	2026-06-11	原术语汇总表
+573	计算机化系统验证；CSV	computerized system validation (CSV)	基线收录	2026-06-11	原术语汇总表
+574	设计确认；DQ	design qualification (DQ)	基线收录	2026-06-11	原术语汇总表
+575	运行确认；OQ	operational qualification (OQ)	基线收录	2026-06-11	原术语汇总表
+576	验证	validation	基线收录	2026-06-11	原术语汇总表
+577	不符合；不符合项	nonconformance	基线收录	2026-06-11	原术语汇总表
+578	事件	incident	基线收录	2026-06-11	原术语汇总表
+579	人为错误	human error	基线收录	2026-06-11	原术语汇总表
+580	关键偏差	critical deviation	基线收录	2026-06-11	原术语汇总表
+581	可能的根本原因	probable root cause	基线收录	2026-06-11	原术语汇总表
+582	异常结果；非典型结果	atypical result	基线收录	2026-06-11	原术语汇总表
+583	影响评估	impact assessment	基线收录	2026-06-11	原术语汇总表
+584	根本原因	root cause	基线收录	2026-06-11	原术语汇总表
+585	超出质量标准；OOS	out-of-specification (OOS)	基线收录	2026-06-11	原术语汇总表
+586	超出趋势；OOT	out-of-trend (OOT)	基线收录	2026-06-11	原术语汇总表
+587	重大偏差	significant deviation	基线收录	2026-06-11	原术语汇总表
+588	偏差	deviation	基线收录	2026-06-11	原术语汇总表
+589	严重性	severity	基线收录	2026-06-11	原术语汇总表
+590	关键性	criticality	基线收录	2026-06-11	原术语汇总表
+591	可检测性	detectability	基线收录	2026-06-11	原术语汇总表
+592	残余风险	residual risk	基线收录	2026-06-11	原术语汇总表
+593	质量风险管理	quality risk management (QRM)	基线收录	2026-06-11	原术语汇总表
+594	风险审核；风险回顾	risk review	基线收录	2026-06-11	原术语汇总表
+595	风险接受	risk acceptance	基线收录	2026-06-11	原术语汇总表
+596	风险控制	risk control	基线收录	2026-06-11	原术语汇总表
+597	风险沟通	risk communication	基线收录	2026-06-11	原术语汇总表
+598	风险评估	risk assessment	基线收录	2026-06-11	原术语汇总表
+599	工艺开发	process development	基线收录	2026-06-11	原术语汇总表
+600	工艺控制	process control	基线收录	2026-06-11	原术语汇总表
+601	分析方法	analytical method	基线收录	2026-06-11	原术语汇总表
+602	CS制药质量翻译助手	CS Pharmaceutical Quality Translation Assistant	基线收录	2026-06-11	原术语汇总表
+603	国际化制药公司	international pharmaceutical company	基线收录	2026-06-11	原术语汇总表
+604	专业沟通内容	professional communication content	基线收录	2026-06-11	原术语汇总表
+605	临床前沟通	preclinical communication	基线收录	2026-06-11	原术语汇总表
+606	临床沟通	clinical communication	基线收录	2026-06-11	原术语汇总表
+607	技术沟通	technical communication	基线收录	2026-06-11	原术语汇总表
+608	培训材料	training materials	基线收录	2026-06-11	原术语汇总表
+609	技术文件	technical document	基线收录	2026-06-11	原术语汇总表
+610	文件名称	document name	基线收录	2026-06-11	原术语汇总表
+611	条款	clause	基线收录	2026-06-11	原术语汇总表
+612	标题	heading	基线收录	2026-06-11	原术语汇总表
+613	步骤	steps	基线收录	2026-06-11	原术语汇总表
+614	版本状态	version status	基线收录	2026-06-11	原术语汇总表
+615	生命周期动作	lifecycle action	基线收录	2026-06-11	原术语汇总表
+616	要求	requirements	基线收录	2026-06-11	原术语汇总表
+617	记录要求	recordkeeping requirements	基线收录	2026-06-11	原术语汇总表
+618	质量文件	quality document	基线收录	2026-06-11	原术语汇总表
+619	义务程度	degree of obligation	基线收录	2026-06-11	原术语汇总表
+620	合规含义	compliance implication	基线收录	2026-06-11	原术语汇总表
+621	建议强度	strength of recommendation	基线收录	2026-06-11	原术语汇总表
+622	监管语义控制点	regulatory meaning control point	基线收录	2026-06-11	原术语汇总表
+623	限制条件	limitations and conditions	基线收录	2026-06-11	原术语汇总表
+624	EAEU 语境	EAEU context	基线收录	2026-06-11	原术语汇总表
+625	ICH 指南体系	ICH guideline framework	基线收录	2026-06-11	原术语汇总表
+626	PIC/S 语境	PIC/S context	基线收录	2026-06-11	原术语汇总表
+627	指南	guideline	基线收录	2026-06-11	原术语汇总表
+628	欧盟法规与监管语境	EU regulatory context	基线收录	2026-06-11	原术语汇总表
+629	法规	regulations	基线收录	2026-06-11	原术语汇总表
+630	法规合规	regulatory compliance	基线收录	2026-06-11	原术语汇总表
+631	法规语境	regulatory context	基线收录	2026-06-11	原术语汇总表
+632	注册	Regulatory Affairs / registration	基线收录	2026-06-11	原术语汇总表
+633	注册资料	regulatory submission documents	基线收录	2026-06-11	原术语汇总表
+634	监管语境	regulatory context	基线收录	2026-06-11	原术语汇总表
+635	监管责任	regulatory responsibility	基线收录	2026-06-11	原术语汇总表
+636	美国法规与监管语境	U.S. regulatory context	基线收录	2026-06-11	原术语汇总表
+637	生产	Production / Manufacturing	基线收录	2026-06-11	原术语汇总表
+638	生产控制	manufacturing control	基线收录	2026-06-11	原术语汇总表
+639	CMC	Chemistry, Manufacturing and Controls (CMC)	基线收录	2026-06-11	原术语汇总表
+640	药品研发	pharmaceutical R&D	基线收录	2026-06-11	原术语汇总表
+641	核实	verification	基线收录	2026-06-11	原术语汇总表
+642	部门名称	department name	基线收录	2026-06-11	原术语汇总表
+643	ADC 药物	antibody-drug conjugate (ADC)	基线收录	2026-06-11	原术语汇总表
+644	分子结构	molecular structure	基线收录	2026-06-11	原术语汇总表
+645	小分子药	small-molecule drug	基线收录	2026-06-11	原术语汇总表
+646	抗体药	antibody drug	基线收录	2026-06-11	原术语汇总表
+647	药物抗体比	drug-to-antibody ratio (DAR)	基线收录	2026-06-11	原术语汇总表
+648	载荷	payload	基线收录	2026-06-11	原术语汇总表
+649	变更	change	基线收录	2026-06-11	原术语汇总表
+650	放行	release	基线收录	2026-06-11	原术语汇总表
+651	质量	Quality	基线收录	2026-06-11	原术语汇总表
+652	质量体系	quality system	基线收录	2026-06-11	原术语汇总表
+653	质量风险	quality risk	基线收录	2026-06-11	原术语汇总表
+654	风险管理	risk management	基线收录	2026-06-11	原术语汇总表
+655	风险说明	risk statement	基线收录	2026-06-11	原术语汇总表
+656	稳定性	stability	基线收录	2026-06-11	原术语汇总表
+657	表征	characterization	基线收录	2026-06-11	原术语汇总表
+658	质量属性	quality attribute	基线收录	2026-06-11	原术语汇总表
+659	洁净室/洁净区	cleanroom/zone	基线收录	2026-06-11	原术语汇总表
+660	洁净室分类	cleanroom classification	基线收录	2026-06-11	原术语汇总表
+661	洁净室确认	cleanroom qualification	基线收录	2026-06-11	原术语汇总表
+662	洁净空气设备	clean air equipment	基线收录	2026-06-11	原术语汇总表
+663	关键区	critical zone	基线收录	2026-06-11	原术语汇总表
+664	背景洁净室	background cleanroom	基线收录	2026-06-11	原术语汇总表
+665	B级背景	Grade B background	基线收录	2026-06-11	原术语汇总表
+666	限制进入屏障系统（RABS）	Restricted Access Barrier System (RABS)	基线收录	2026-06-11	原术语汇总表
+667	隔离器	isolator	基线收录	2026-06-11	原术语汇总表
+668	开放式隔离器	open isolator	基线收录	2026-06-11	原术语汇总表
+669	封闭式隔离器	closed isolator	基线收录	2026-06-11	原术语汇总表
+670	负压隔离器	negative pressure isolator	基线收录	2026-06-11	原术语汇总表
+671	屏障技术	Barrier Technology	基线收录	2026-06-11	原术语汇总表
+672	单向气流	unidirectional airflow	基线收录	2026-06-11	原术语汇总表
+673	单向气流设备	unidirectional airflow unit (UDAF)	基线收录	2026-06-11	原术语汇总表
+674	第一空气	first air	基线收录	2026-06-11	原术语汇总表
+675	气流型态	airflow pattern	基线收录	2026-06-11	原术语汇总表
+676	气流可视化研究	airflow visualization study	基线收录	2026-06-11	原术语汇总表
+677	气锁	airlock	基线收录	2026-06-11	原术语汇总表
+678	人员气锁	personnel airlock	基线收录	2026-06-11	原术语汇总表
+679	物料气锁	material airlock	基线收录	2026-06-11	原术语汇总表
+680	传递窗	pass-through hatch	基线收录	2026-06-11	原术语汇总表
+681	更衣室	change room	基线收录	2026-06-11	原术语汇总表
+682	静态	at rest	基线收录	2026-06-11	原术语汇总表
+683	动态；运行状态	in operation	基线收录	2026-06-11	原术语汇总表
+684	清洁恢复时间	clean-up period	基线收录	2026-06-11	原术语汇总表
+685	总粒子浓度	total particle concentration	基线收录	2026-06-11	原术语汇总表
+686	非活性粒子	non-viable particle	基线收录	2026-06-11	原术语汇总表
+687	活性粒子	viable particle	基线收录	2026-06-11	原术语汇总表
+688	浮游菌采样	volumetric air sampling	基线收录	2026-06-11	原术语汇总表
+689	空气样	air sample	基线收录	2026-06-11	原术语汇总表
+690	沉降菌碟	settle plate	基线收录	2026-06-11	原术语汇总表
+691	接触碟	contact plate	基线收录	2026-06-11	原术语汇总表
+692	手套印迹	glove print	基线收录	2026-06-11	原术语汇总表
+693	人员监测	personnel monitoring	基线收录	2026-06-11	原术语汇总表
+694	环境监测	environmental monitoring (EM)	基线收录	2026-06-11	原术语汇总表
+695	警戒水平	alert level	基线收录	2026-06-11	原术语汇总表
+696	行动限	action limit	基线收录	2026-06-11	原术语汇总表
+697	生物去污染	bio-decontamination	基线收录	2026-06-11	原术语汇总表
+698	孢子杀灭剂	sporicidal agent	基线收录	2026-06-11	原术语汇总表
+699	清洁和消毒	cleaning and disinfection	基线收录	2026-06-11	原术语汇总表
+700	更衣确认	gowning qualification	基线收录	2026-06-11	原术语汇总表
+701	洁净室更衣	cleanroom gowning	基线收录	2026-06-11	原术语汇总表
+702	委托生产管理	Contract Manufacture Management	增量确认	2026-06-22	委托检验管理SMP术语统一
+703	委托检验管理	Contract Analysis Management	增量确认	2026-06-22	委托检验管理SMP术语统一
+704	委托检验	contract analysis	增量确认	2026-06-22	委托检验管理SMP术语统一
+705	委托检验项目	contract analysis items	增量确认	2026-06-22	委托检验管理SMP术语统一
+706	委托检验活动	contract analysis activities	增量确认	2026-06-25	委托检验管理SMP正文定稿
+707	委托检验流程	contract analysis process	增量确认	2026-06-25	委托检验管理SMP正文定稿
+708	委托检验数据	contract analysis data	增量确认	2026-06-25	委托检验管理SMP正文定稿
+709	检验异常数据	abnormal analytical data	增量确认	2026-06-22	委托检验管理SMP术语统一
+710	符合规定／符合既定要求	meet specified requirements	增量确认	2026-06-22	委托检验管理SMP表达统一
+711	符合预期用途／符合预期用途相关要求	meet the intended requirements	增量确认	2026-06-22	委托检验管理SMP表达统一
+712	送检	Submission for Contract Analysis	增量确认	2026-06-22	委托检验管理SMP术语统一
+713	送样方式	sample delivery method	增量确认	2026-06-22	委托检验管理SMP术语统一
+714	现场送样	on-site sample delivery	增量确认	2026-06-22	委托检验管理SMP术语统一
+715	快递	courier delivery	增量确认	2026-06-22	委托检验管理SMP术语统一
+716	委托检验机构清单	List of Contract Analysis Institutions	增量确认	2026-06-25	委托检验管理SMP文件名称定稿
+717	本公司持有的产品西达本胺片	the Company’s MAH-held product, Chidamide Tablets	增量确认	2026-06-22	MAH产品称谓统一
+718	中英文同版受控文件	same-version Chinese-English controlled document	增量确认	2026-06-17	文件管理规程变更历史复核
+719	文件审批表	Document Approval Form	增量确认	2026-06-17	文件管理规程变更历史复核
+720	审核人和批准人	reviewers and approvers	增量确认	2026-06-17	文件管理规程变更历史复核
+721	签字原件	original signed signature pages	增量确认	2026-06-17	文件管理规程变更历史复核
+722	电子文件形式分发	distribution in electronic document format	增量确认	2026-06-17	文件管理规程变更历史复核
+723	纸质分发	hard-copy distribution	增量确认	2026-06-17	文件管理规程变更历史复核
+724	指导文件	Directive Documents	增量确认	2026-06-17	文件体系封面术语复核
