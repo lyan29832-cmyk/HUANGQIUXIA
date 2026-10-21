@@ -1,0 +1,349 @@
+序号	中文术语	英文统一译法	缩写
+1	质量管理体系	Quality Management System	QMS
+2	药品质量管理体系	Pharmaceutical Quality System	PQS
+3	临床质量管理体系	Clinical Quality Management System	cQMS
+4	研发质量管理体系	Research and Development Quality Management System	rQMS
+5	制药行业中各种良好实践指南和法规的通用统称	Good x Practice	GxP
+6	目录	Contents	/
+7	目的	Purpose	/
+8	范围	Scope	/
+9	职责	Responsibilities	/
+10	编制依据	References	/
+11	定义	Definitions	/
+12	内容	Procedure	/
+13	注意事项	Precautions	/
+14	环境、健康、安全（EHS）要求	Environment, Health and Safety (EHS) Requirements	/
+15	派生记录	Associated Records	/
+16	相关文件	Related Documents	/
+17	附件	Attachments	/
+18	版本变更历史	Version History	/
+19	受控文件	Controlled Document
+20	受控记录	Controlled Record
+21	记录文件	Record Document
+22	受控记录模板	Controlled Record Templates
+23	标准管理规程	Standard Management Procedure	SMP
+24	指导文件-标准管理规程	Directive Document-Standard Management Procedure	/
+25	标准操作规程	Standard Operating Procedure	SOP
+26	生产操作规程	Manufacturing SOP	/
+27	检验操作规程	Testing SOP	/
+28	工作指南	Work Instruction	WI
+29	工作文件-工作指南	Work Document-Work Instruction	/
+30	表单	Form	/
+31	台账	Log	/
+32	清单	List	/
+33	历史版本	Historical Version	/
+34	中英文同版受控文件	Chinese-English Same-Version Controlled Document	/
+35	中英文同版受控记录模板	Chinese-English Same-Version Controlled Record Template	/
+36	中文单语	Chinese Monolingual	/
+37	中英文双语	Chinese-English Bilingual	/
+38	中英文同版文件	Chinese-English same-Version Document	/
+39	中文执行依据	Chinese Execution Basis	/
+40	受控对应英文内容	Controlled Corresponding English Content	/
+41	中英文内容一致性	Consistency Between Chinese and English Contents	/
+42	对应关系	Correspondence	/
+43	术语统一	Terminology Consistency	/
+44	文件编号	Document Number	Doc.No
+45	版本号	Version	/
+46	责任人	Responsible Person	/
+47	起草人	Author	/
+48	审核人	Reviewer	/
+49	批准人	Approver	/
+50	生效日期	Effective Date	/
+51	有效期至	Expiry Date	/
+52	质量管理员	Quality Administrator	QA
+53	经理	Manager	/
+54	部门负责人	Head of Department	HOD
+55	颁发部门	Issuing Department	/
+56	分发部门/单位（代码）	Distribution Departments / Units (Code)	/
+57	研发系统	R&D Division	RD
+58	技术转移中心	Technology Transfer Center	TTC
+59	技术转移中心质量保证部	Quality Assurance Department of Early Research and Development System	RDQA
+60	生产系统	Manufacture Division	/
+61	商业系统	Commercial Division	CD
+62	财务系统	Finance Division	/
+63	营运系统	Operation Division	/
+64	董事会办公室	Board Office	/
+65	质量管理部	Quality Management Department	QM
+66	产品战略与商务拓展部	Product Strategy & BD Department	/
+67	法务、证券与公共事务部	Legal, Securities & Public Affairs Department	/
+68	早期研发中心	Early Research&Development Center	RD
+69	临床开发中心	Clinical Development Center	CD
+70	临床质量部	Quality Assurance Department of Clinical Development	CDQA
+71	临床运营部	Clinical Operations	CO
+72	数据管理部	Data management Department	DM
+73	数据统计部	Statistical Department	DS
+74	肿瘤医学部	Department of Oncology Research	DOR
+75	代谢与自免医学部	Department of Metabolism and Autoimmunity Research	DMAR
+76	产品开发中心	Product Development Center	PDC
+77	知识产权部	Intellectual Property Department	IP
+78	项目协调部	Integrated Management Department	IMD
+79	药政事务与警戒	Regulatory Affairs & Pharmacovigilance Dep.	RA&PV
+80	临床药理	Clinical Pharmacology Department	CP
+81	上市后医学部	Medical Affairs Department	/
+85	肿瘤产品事业部	Oncology Business Unit	/
+86	代谢病产品事业部	Diabetes and Metabolism Business Unit	/
+87	新零售部	New Retail (O2O/Omnichannel) Dep.	NRD
+88	商业与市场准入部	Market Access and Business Department	/
+89	财务部	Finance Department	/
+90	采购部	Purchasing Department	/
+91	人力资源部	Human Resources Department	HR
+92	信息技术部	IT Department	IT
+93	行政部	Administration Department	AD
+94	MAH产品事业部	MAH Product Business Unit	/
+95	MAH产品质量部	MAH Product Quality Department	/
+96	质量手册	Quality Manual	MAN
+97	质量方针	Quality Policy	/
+98	质量目标	Quality Objectives	/
+99	质量文化	Quality Culture	/
+100	质量部门/质量单元	Quality Unit	/
+101	持续改进	Continual Improvement	/
+102	产品生命周期	Product Lifecycle	/
+103	上市后质量管理	Post-Approval Quality Management	/
+104	上市许可持有人	Marketing Authorization Holder	MAH
+105	持有人质量责任	MAH Quality Responsibility	/
+106	产品质量责任主体	Entity Ultimately Responsible for Product Quality	/
+107	可归属、可追溯	Attributable	ALCOA++
+	清晰易读	Legible
+	同步/及时记录	Contemporaneous
+	原始的	Original
+	准确的	Accurate
+	完整的	Complete
+	一致的	Consistent
+	持久保存的	Enduring
+	可获得的	Available
+108	元数据	Metadata	/
+109	原始数据	Raw Data	/
+110	审计追踪	Audit Trail	/
+111	数据完整性	Data Integrity	DI
+112	原始记录	Original Record	/
+113	审计追踪	Audit Trail	/
+114	电子记录	Electronic Record	/
+115	电子签名	Electronic Signature	/
+116	计算机化系统	Computerized System	/
+117	系统权限	System Access Rights	/
+118	高级管理层	Senior Management	/
+119	企业负责人	Head of the Company	/
+120	总裁	President	/
+121	生产负责人	Head of Production	/
+122	质量负责人	Head of Quality	/
+123	质量受权人	Qualified Person	QP
+124	MAH产品质量负责人	Head of Quality for the MAH Product	/
+125	集团质量负责人	Head of Group Quality	/
+126	法定代表人	Legal Representative	/
+127	受托方	Contract Acceptor	/
+128	受托方评估报告	Contract Acceptor Assessment Report	/
+129	受托方调研和考察	Due Diligence and Assessment of the Contract Acceptor	/
+130	受托方质量审计和评估	Quality Audit and Assessment of the Contract Acceptor	/
+131	受托生产企业	Contract Acceptor	/
+132	委托方	Contract Giver	/
+133	委托生产	Contract Manufacturing	/
+134	委托生产合同	Contract Manufacturing Agreement	/
+135	生产场地	Manufacturing Site	/
+136	委托检验	Contract Testing	/
+137	受托检验机构	Contract Testing Laboratory	CTL
+138	受托实验室	Contract Laboratory	/
+139	受托方管理	Contract Acceptor Management	/
+140	外包活动	Outsourced Activities	/
+141	委托活动监督	Oversight of Outsourced Activities	/
+142	质量协议	Quality Agreement	/
+143	技术协议	Technical Agreement	/
+144	受托方偏差	Contract Acceptor Deviation	/
+145	受托方变更	Contract Acceptor Change	/
+146	受托方CAPA	Contract Acceptor CAPA	/
+147	受托方审计	Contract Acceptor Audit	/
+148	审计	Audit	/
+149	质量监督	Quality Oversight	/
+150	境外监管检查	Overseas Regulatory Inspection	/
+151	审计审阅	Audit Review	/
+152	EAEU审计	EAEU Audit	/
+153	药品检查	Pharmaceutical Inspection	/
+154	检查员	Inspector	/
+155	审计员	Auditor	/
+156	审计发现	Audit Finding	/
+157	不符合/不符合项	Nonconformance
+158	检查发现/观察项	Observation	/
+159	审计缺陷	Audit Deficiency	/
+160	严重缺陷/关键缺陷	Critical Deficiency	/
+161	主要缺陷/重大缺陷	Major Deficiency	/
+162	一般缺陷/微小缺陷	Minor Deficiency	/
+163	合规/符合性	Compliance	/
+164	整改	Remediation	/
+165	整改措施	Remediation Action	/
+166	监管检查	Regulatory Inspection	/
+167	检查类别	Inspection Type	/
+168	日常监督检查	Routine Surveillance Inspection	/
+169	上市后药品GMP符合性检查	Post-marketing GMP Compliance Inspection	/
+170	监管期望	Regulatory Expectation	/
+171	审计追溯	Audit Traceability	/
+172	审计准备	Audit Readiness	/
+173	审计支持文件	Documents in Support of Audit Review	/
+174	供应商	Supplier	/
+175	合格供应商	Approved Supplier	/
+176	供应商确认/供应商资质确认	Supplier Qualification	/
+177	合格供应商清单	Approved Supplier List	ASL
+178	服务商	Service Provider	/
+179	外部机构	External Organization	/
+180	外来文件	External Document	/
+181	供应商评估	Supplier Assessment	/
+182	供应商审计	Supplier Audit	/
+183	年度评估	Annual Evaluation	/
+184	质量	Quality
+185	质量风险	Quality Risk
+186	质量风险管理	Quality Risk Management	QRM
+187	基于风险的	Risk-based	/
+188	风险评估	Risk Assessment	/
+189	风险控制	Risk Control	/
+190	风险沟通	Risk Communication	/
+191	风险审核/风险回顾	Risk Review	/
+192	可检测性	Detectability	/
+193	残余风险	Residual Risk	/
+194	风险接受	Risk Acceptance	/
+195	风险管理	Risk Management	/
+196	风险说明	Risk Statement	/
+197	管理评审	Management Review	/
+198	质量绩效指标	Quality Performance Indicators	QPI
+199	趋势分析	Trend Analysis	/
+200	偏差	Deviation	/
+201	事件	Incident	/
+202	微小偏差	Minor Deviation	/
+203	主要偏差	Major Deviation	/
+204	严重偏差	Critical Deviation	/
+205	偏差调查	Deviation Investigation	/
+206	根本原因	Root Cause	/
+207	可能的根本原因	Probable Root Cause
+208	影响评估	Impact Assessment	/
+209	人为错误	Human Error
+210	超出预期/预期外	out-of-Expectation	OOE
+211	超出质量标准	out-of-Specification	OOS
+212	超出趋势	out-of-Trend	OOT
+213	严重性	Severity
+214	关键性	Criticality
+215	纠正	Correction	/
+216	纠正措施	Corrective Action	/
+217	预防措施	Preventive Action	/
+218	纠正措施和预防措施	Corrective Action and Preventive Action (CAPA)	CAPA
+219	CAPA有效性确认	CAPA Effectiveness Check	/
+220	变更评估	Change Assessment	/
+221	变更批准	Change Approval	/
+222	变更关闭	Change Closure	/
+223	变更控制	Change Control	/
+224	变更管理	Change Management	/
+225	变更管理台账	Change Management Log	/
+226	产品质量投诉	Product Quality Complaint	PQC
+227	投诉信息分类及初步调查表	Complaint Classification and Preliminary Investigation Form	/
+228	投诉信息登记表	Complaint Information Registration Form	/
+229	投诉台账	Complaint Log	/
+230	投诉扩大调查中期报告	Interim Report on Complaint Expanded Investigation	/
+231	投诉扩大调查报告	Complaint Expanded Investigation Report	/
+232	质量缺陷	Quality Defect	/
+233	召回	Recall	/
+234	主动召回	Voluntary Recall	/
+235	模拟召回	Mock Recall	/
+236	责令召回	Ordered Recall	/
+237	召回等级	Recall Level	/
+238	召回通知	Recall Notification	/
+239	召回报告	Recall Report	/
+240	召回反馈表	Recall Feedback Form	/
+241	召回台账	Recall Log	/
+242	召回工作小组	Recall Working Group	/
+243	召回工作指南	Recall Work Instruction	/
+244	药品召回总结报告	Medicinal Product Recall Summary Report	/
+245	药品召回计划	Medicinal Product Recall Plan	/
+246	药品召回阶段报告	Medicinal Product Recall Progress Report	/
+247	经销商	Distributor	/
+248	一级经销商	First-Level Distributor	/
+249	退货	Returned Product	/
+250	药物警戒	Pharmacovigilance	PV
+251	安全性信息	Safety Information	/
+252	批记录审核	Batch Record Review	/
+253	放行	Release
+254	批放行	Batch Release	/
+255	上市放行	Release for Market	/
+256	放行审核	Release Review	/
+257	已放行	Released	/
+258	待验/隔离	Quarantine	/
+259	生产批记录	Batch Manufacturing Record	BMR
+260	包装批记录	Batch Packaging Record	BPR
+261	检验报告	Certificate of Analysis	CoA
+262	质量标准	Specification	/
+263	年度产品质量回顾	Annual Product Quality Review	APQR
+264	产品质量回顾	Product Quality Review	PQR
+265	稳定性考察	Stability Study	/
+266	持续稳定性考察	Ongoing Stability Study	/
+267	留样	Retention Sample	/
+268	注册	Registration	/
+269	注册要求	Registration Requirements	/
+270	注册承诺	Regulatory Commitment	/
+271	注册变更	Regulatory Variation / Registration Change	/
+272	注册资料	Registration Dossier	/
+273	质量研究资料	Quality Dossier	/
+274	培训管理	Training Management	/
+275	培训记录	Training Record	/
+276	岗位职责	Job Responsibilities	/
+277	任职资格	Qualification Requirements	/
+278	授权	Authorization	/
+279	产品追溯	Product Traceability	/
+280	销售流向	Distribution Traceability	/
+281	发运	Shipment	/
+282	运输条件	Transportation Conditions	/
+283	贮藏条件	Storage Conditions	/
+284	双向沟通	Two-way Communication	/
+285	应急指挥部	Emergency Command Center	/
+286	批记录	Batch Record	/
+287	批包装记录	Batch Packaging Record	BPR
+288	批生产记录	Batch Manufacturing Record	/
+289	药品生产单位	Drug Manufacturer	/
+290	药品追溯码系统	Drug Traceability Code System	/
+294	规格（剂量）	Strength	/
+295	规格（包装）	Pack Size	/
+296	说明书	Package Insert	/
+297	调查评估报告	Investigation and Assessment Report	/
+298	货架期/有效期（成品）	Shelf Life	/
+299	贮存条件	Storage Conditions	/
+300	转运/转移	Transfer	/
+301	退回	Return	/
+302	退库	Return to Warehouse	/
+303	遮光，密封保存	Protect from light and keep tightly closed	/
+304	铝铝包装	Alu-Alu Blister Packaging	/
+305	铝铝板	Alu-Alu Blister Card	/
+306	销毁	Destruction	/
+307	如有合理理由/经论证合理时	If Justified	/
+308	已建立/经建立	Established	/
+309	应/应当	Shall	/
+310	必要时	Where Necessary	/
+311	必须	Must	/
+312	能够	Can	/
+313	可/可以	May	/
+314	要求/需	Required	/
+315	适当的；合适的	Appropriate	/
+316	适用时；如适用	Where Applicable	/
+317	预期/期望	Expected	/
+318	再次发生/复发	Recurrence	/
+319	持续改进	Continual Improvement	/
+320	技术协议	Technical Agreement	/
+321	交叉污染	Cross-Contamination	/
+322	分析方法验证	Analytical Method Validation	/
+323	分析程序开发	Analytical Procedure Development	/
+324	确认	Qualification	/
+325	设计确认	Design Qualification	DQ
+326	安装确认	Installation Qualification	IQ
+327	运行确认	Operational Qualification	OQ
+328	性能确认	Performance Qualification	PQ
+329	持续工艺确认	Continued Process Verification	CPV
+330	计算机化系统验证	Computerized System Validation	CSV
+331	验证	Validation	/
+332	定期回顾	Periodic Review	/
+333	工艺验证	Process Validation	/
+334	清洁验证	Cleaning Validation	/
+335	工艺开发	Process Development	/
+336	工艺控制	Process Control	/
+337	分析方法	Analytical Method	/
+338	生产	Manufacturing	/
+339	生产控制	Manufacturing Control	/
+340	化学、生产和控制	Chemistry, Manufacturing and Controls	CMC
+341	药品研发	Pharmaceutical R&D	/
+342	稳定性	Stability	/
+343	质量质量属性	Product Quality Attributes	/
+344	中英文标准译法	Chinese-English Standardized Translations	/
+345	行业术语	Industry-specific Terminology	/
+346	执行	Implementation	/
