@@ -21,17 +21,19 @@ SLIDE_W = 12192000
 SLIDE_H = 6858000
 EMU_IN = 914400
 
-# Deck blue sampled from the existing opening-meeting header: RGB(0, 70, 155).
+# Company deep blue, sampled from the opening-meeting header: RGB(0, 70, 155).
 BLUE = "00469B"
+ON_BLUE = "E4EEF8"
 INK = "1B2833"
 SECONDARY = "5C6B78"
-MUTED = "6E7C88"
+MUTED = "5A6A78"
 LINE = "D5DEE6"
-HAIR = "E4E9EE"
+HAIR = "C5D5E6"
 PAGE = "F4F6F8"
 WHITE = "FFFFFF"
-TINT = "E7F0F8"
-ARROW = "8E9DAB"
+# Light field inside the production-environment boundary.
+ENV = "E7F1FA"
+ARROW = "00469B"
 
 LATIN = "Arial"
 EA = "Microsoft YaHei"
@@ -186,25 +188,25 @@ def build():
     )
     russian.name = "Russian subtitle"
 
-    # The panel is the Grade D boundary drawn on the source figure.
+    # The panel is the production environment (workshop Grade D), as on the source figure.
     # Controls stay outside that boundary. The slide does not state where testing is performed.
     panel_x, panel_y, panel_w, panel_h = 0.42, 1.02, 8.16, 5.90
     panel_r = panel_x + panel_w
     panel_b = panel_y + panel_h
 
     panel = round_rect(slide, panel_x, panel_y, panel_w, panel_h, 0.012)
-    fill_rgb(panel, WHITE)
-    border(panel, "D9E1E8", 1.25)
-    panel.name = "Grade D boundary"
+    fill_rgb(panel, ENV)
+    border(panel, BLUE, 1.5)
+    panel.name = "Production environment"
 
-    zone = slide.shapes.add_textbox(inches(0.64), inches(panel_y + 0.05), inches(5.8), inches(0.40))
+    zone = slide.shapes.add_textbox(inches(0.64), inches(panel_y + 0.05), inches(7.2), inches(0.40))
     zone.fill.background()
     no_line(zone)
     write_lines(
         zone,
         [
-            ("车间  ·  D级洁净区", 13, BLUE, True, "zh-CN"),
-            ("Grade D cleanroom  ·  Класс D", 12, BLUE, False, "en-US"),
+            ("生产环境  ·  车间 D级洁净区", 14, BLUE, True, "zh-CN"),
+            ("Production environment  ·  Grade D cleanroom  ·  Класс D", 12, BLUE, False, "en-US"),
         ],
         align="left",
         anchor="ctr",
@@ -278,24 +280,18 @@ def build():
     for index, ((cn, en, equipment, kind), y) in enumerate(zip(steps, rows)):
         if kind == "terminus":
             card = round_rect(slide, step_x, y, step_w, card_h, 0.5)
-            fill_rgb(card, TINT)
-            border(card, BLUE, 1.25)
-            write_lines(
-                card,
-                [(cn, 15, INK, True, "zh-CN"), (en, 11, SECONDARY, False, "en-US")],
-                align="center",
-                margins=(0.28, 0.28, 0.02, 0.02),
-            )
+            margins = (0.28, 0.28, 0.02, 0.02)
         else:
             card = round_rect(slide, step_x, y, step_w, card_h, 0.12)
-            fill_rgb(card, WHITE)
-            border(card, LINE, 1.0)
-            write_lines(
-                card,
-                [(cn, 15, INK, True, "zh-CN"), (en, 11, SECONDARY, False, "en-US")],
-                align="center",
-                margins=(0.10, 0.10, 0.04, 0.03),
-            )
+            margins = (0.10, 0.10, 0.04, 0.03)
+        fill_rgb(card, BLUE)
+        no_line(card)
+        write_lines(
+            card,
+            [(cn, 15, WHITE, True, "zh-CN"), (en, 11, ON_BLUE, False, "en-US")],
+            align="center",
+            margins=margins,
+        )
         card.name = f"Step {cn}"
 
         if equipment:
@@ -403,14 +399,14 @@ def build():
         legend,
         [
             (
-                "起止为物料与产物    ·    中间为单元操作    ·    左侧为设备    ·    右侧为检测与过程控制",
+                "浅色区域为生产环境    ·    深蓝色块为工艺步骤    ·    左侧为设备    ·    右侧为检测与过程控制",
                 11,
                 MUTED,
                 False,
                 "zh-CN",
             ),
             (
-                "Input and output at the ends    ·    Unit operations in the center    ·    Equipment on the left    ·    Controls on the right",
+                "Tinted area: production environment    ·    Deep blue: process steps    ·    Equipment on the left    ·    Controls on the right",
                 10,
                 MUTED,
                 False,
@@ -428,7 +424,7 @@ def build():
         "本页用于首次会议说明固体分散体的生产流程。只调整了原图的颜色和版式，"
         "没有增加或删减步骤、设备、检测项目和限度。\n\n"
         "建议讲解顺序：\n"
-        "1. 生产在车间 D 级洁净区内完成。白框内是生产流程和对应设备。\n"
+        "1. 浅蓝框表示生产环境，即车间 D 级洁净区。框内是工艺步骤和对应设备；深蓝色块是工艺步骤。\n"
         "2. 物料经溶解、浓缩、粉碎、干燥、混合，得到固体分散体。\n"
         "3. 浓缩使用旋转蒸发器，粉碎使用高效吸尘粉碎机，干燥使用热风循环烘箱，"
         "混合使用三维运动混合机。溶解步骤原图未标注设备，本页不补充。\n"
